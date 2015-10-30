@@ -16,7 +16,7 @@ title: Välkommen till Spelkosmos
 * [The Neverhood][5]
 * [Mario Kart 64][6]
 
-Sven tipsar om en "spirituell uppföljare till The Neverhood som han glömmer nämna vid namn. Det är [Armikrog][7] han tänker på.
+Sven tipsar om en "spirituell uppföljare" till The Neverhood som han glömmer nämna vid namn. Det är [Armikrog][7] han tänker på.
 
 ## Musik i denna episod
 
