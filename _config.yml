@@ -18,3 +18,5 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
