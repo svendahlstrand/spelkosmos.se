@@ -1,0 +1,20 @@
+permalink: /:title/
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+timezone: Europe/Stockholm
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

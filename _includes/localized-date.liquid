@@ -1,0 +1,1 @@
+{% assign month_names = "januari,februari,mars,april,maj,juni,juli,augusti,september,oktober,november,december" | split: "," %}{% assign i = page.date | date: "%-m" | minus: 1 %}{{ page.date | date: "%-d month %Y" | replace: 'month', month_names[i] }}

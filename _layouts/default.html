@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+
+    <title>
+      {% if page.title %}
+        {{ page.title }} - Spelkosmos
+      {% else %}
+        Spelkosmos
+      {% endif %}
+    </title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
