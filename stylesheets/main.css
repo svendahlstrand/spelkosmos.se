@@ -429,7 +429,7 @@ th {
 /* Website specific styles */
 
 header {
-  max-width: 40em;
+  max-width: 35em;
   margin: 0 auto;
 }
 
@@ -440,21 +440,26 @@ header img {
 }
 
 nav ul {
-  padding: 0 1em;
+  text-align: center;
 }
 
 nav li {
-  display: inline;
+  display: inline-block;
+  padding: 0 0.5em;
 }
 
 main {
-  max-width: 40em;
+  max-width: 35em;
   margin: 0 auto;
   padding: 0 1em;
 }
 
-@media (min-width: 40em) {
-  nav ul {
-    padding: 0;
-  }
+h1 {
+  font-family: 'Merriweather', serif;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+  line-height: 1.5;
+  font-size: 18px;
 }
