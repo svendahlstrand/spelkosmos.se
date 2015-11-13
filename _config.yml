@@ -4,6 +4,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
+  - README.md
+  - vendor
 timezone: Europe/Stockholm
 defaults:
   -
