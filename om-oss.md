@@ -1,4 +1,5 @@
 ---
+permalink: /om-oss/
 ---
 
 # Om oss
@@ -13,7 +14,7 @@ Sanna Lund och Sven Dahlstrand
 
 Tack till Niklas Dahlstrand för den peppiga Spelkosmos-låten och illustratören Kostic Milos för den eminenta pixelgrafiken.
 
-Vi älskar att få glada mail. Hör gärna av dig till hej@spelkosmos.se.
+Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 
-http://sannalund.se
-https://svendahlstrand.se
+<http://sannalund.se>
+<https://svendahlstrand.se>
