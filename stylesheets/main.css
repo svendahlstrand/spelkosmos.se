@@ -425,3 +425,36 @@ td,
 th {
   padding: 0;
 }
+
+/* Website specific styles */
+
+header {
+  max-width: 40em;
+  margin: 0 auto;
+}
+
+header img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+nav ul {
+  padding: 0 1em;
+}
+
+nav li {
+  display: inline;
+}
+
+main {
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+@media (min-width: 40em) {
+  nav ul {
+    padding: 0;
+  }
+}
