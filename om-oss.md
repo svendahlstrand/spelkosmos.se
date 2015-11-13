@@ -1,4 +1,5 @@
 ---
+title: Om oss
 permalink: /om-oss/
 ---
 
