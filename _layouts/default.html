@@ -3,7 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-    
+
+    {% if page.robots %}
+      <meta name="robots" content="{{ page.robots }}" />
+    {% endif %}
+
     <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
@@ -27,7 +31,7 @@
         {% if page.url != "/index.html" %}
           <a href="/">Hem</a> &gt; {{ page.title }}
         {% endif %}
-      </nav> 
+      </nav>
        {{ content }}
      </main>
     </div>
