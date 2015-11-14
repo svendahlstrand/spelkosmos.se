@@ -1,6 +1,6 @@
 ---
 episode: 1
-soundcloud: 220991293
+soundcloud: 230006591-spelkosmos-episod-1
 title: 6 "typiska" spel
 ---
 
