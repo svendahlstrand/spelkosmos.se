@@ -9,11 +9,11 @@ Välkommen till en podd om att fly verkligheten för en stund. Om att uppleva ny
 
 Och allra främst, ha en riktigt mysig stund tillsammans med oss!
 
-[Sanna Lund][1] och [Sven Dahlstrand][2]
-
 Tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten och illustratören [Kostic Milos][3] för den eminenta pixelgrafiken.
 
 Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
+
+[Sanna Lund][1] och [Sven Dahlstrand][2]
 
 [1]: http://sannalund.se
 [2]: https://svendahlstrand.se

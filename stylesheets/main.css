@@ -428,6 +428,11 @@ th {
 
 /* Website specific styles */
 
+header {
+  background-color: white;
+  color: black;
+}
+
 header > a {
   display: block;
   background-image: url("/images/background.png");
@@ -454,6 +459,7 @@ nav {
 
 nav ul {
   text-align: center;
+  margin: 1em 0 0 0;
 }
 
 nav li {
@@ -461,10 +467,15 @@ nav li {
   padding: 0 0.5em;
 }
 
+#wrapper {
+  background-color: white;
+  color: black;
+}
+
 main {
   max-width: 35em;
   margin: 0 auto;
-  padding: 0 1em;
+  padding: 0.2em 1em 2em 1em;
 }
 
 h1 {
@@ -475,4 +486,17 @@ body {
   font-family: 'PT Serif', serif;
   line-height: 1.5;
   font-size: 18px;
+  background-color: #000004;
+  color: white;
+}
+
+footer {
+  max-width: 35em;
+  margin: 0 auto; 
+  padding: 1.5em;
+  text-align: center;
+}
+
+footer a {
+  margin: 0 0.5em;
 }
