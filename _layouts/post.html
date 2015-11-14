@@ -3,8 +3,7 @@ layout: default
 ---
 
 <article>
-  <h1>{{ page.title }}</h1>
-  <p>Episod {{ page.episode}}, <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{% include localized-date.liquid %}</time></p>
+  <h1>Episod {{ page.episode}} - {{ page.title }}</h1>
   <iframe height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloud }}&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false"></iframe>
   {{ content }}
 </article>

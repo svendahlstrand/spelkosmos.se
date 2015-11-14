@@ -19,17 +19,15 @@
   <body>
     <header>
       <a href="/"><img src="/images/spelkosmos.png" alt="Spelkosmos" width="640" height="237" /></a>
-
-      <nav>
-        <ul>
-          <li><a href="/">Hem</a></li>
-          <li><a href="/om-oss/">Om oss</a></li>
-        </ul>
-      </nav>
     </header>
 
     <div id="wrapper">
       <main>
+       <nav>
+        {% if page.url != "/index.html" %}
+          <a href="/">Hem</a> &gt; {{ page.title }}
+        {% endif %}
+      </nav> 
        {{ content }}
      </main>
     </div>
