@@ -11,9 +11,10 @@ Och allra främst, ha en riktigt mysig stund tillsammans med oss!
 
 [Sanna Lund][1] och [Sven Dahlstrand][2]
 
-Tack till Niklas Dahlstrand för den peppiga Spelkosmos-låten och illustratören Kostic Milos för den eminenta pixelgrafiken.
+Tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten och illustratören [Kostic Milos][3] för den eminenta pixelgrafiken.
 
 Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 
 [1]: http://sannalund.se
 [2]: https://svendahlstrand.se
+[3]: https://www.fiverr.com/harveydentmd
