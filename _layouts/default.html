@@ -20,13 +20,14 @@
 
     <div id="wrapper">
       <main>
-       <nav>
-        {% if page.url != "/index.html" %}
-          <a href="/">Hem</a> &gt; {% include full-page-title.liquid %}
-        {% endif %}
-      </nav>
-       {{ content }}
-     </main>
+        <nav>
+          {% if page.url != "/index.html" %}
+            <a href="/">Hem</a> &gt; {% include full-page-title.liquid %}
+          {% endif %}
+        </nav>
+
+        {{ content }}
+      </main>
     </div>
 
     <footer>
