@@ -22,8 +22,6 @@ Ett extra tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten!
 ## Ljud och musik i denna episod
 
 * Spelkosmos av Niklas Dahlstrand
-* Vinyl Rewind av TasmanianPower
-* Summercase av Jahzzar
 * Box Boy! Soundtrack
 * Laymen’s Theme av Terry Scott Taylor
 * Moo Moo Farm från Mario Cart 64
