@@ -4,7 +4,7 @@ soundcloud: 230006591-spelkosmos-episod-1
 title: Spela gamla spel idag
 ---
 
-Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel som du kanske missat. Och en massa mega-gamla spel som väcker nostalgikänslor som gör dig alldeles snurrig. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
+Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel som du kanske missat. För att inte tala om mega-gamla spel som väcker nostalgikänslor. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
 
 ## Spela gamla spel-resurser
 
