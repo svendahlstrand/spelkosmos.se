@@ -35,7 +35,7 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 [5]: https://en.wikipedia.org/wiki/The_Wolf_Among_Us
 [6]: https://en.wikipedia.org/wiki/Life_Is_Strange
 [7]: https://en.wikipedia.org/wiki/Until_Dawn
-[8]: https://en.wikipedia.org/wiki/Dear_Esther)
+[8]: https://en.wikipedia.org/wiki/Dear_Esther
 [9]: https://en.wikipedia.org/wiki/The_Vanishing_of_Ethan_Carter
 [10]: https://en.wikipedia.org/wiki/Gone_Home
 [11]: https://en.wikipedia.org/wiki/The_Beginner%27s_Guide

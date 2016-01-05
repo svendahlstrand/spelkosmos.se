@@ -4,17 +4,17 @@ soundcloud: 230006591-spelkosmos-episod-1
 title: Spela gamla spel idag
 ---
 
-Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel som du kanske missat. Och en massa mega-gamla spel som väcker nostalgi. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
+Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel som du kanske missat. Och en massa mega-gamla spel som väcker nostalgikänslor som gör dig alldeles snurrig. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
 
 ## Spela gamla spel-resurser
 
 ## Spel som det snackas om
 
-* [Unreal Tournament 2003][2] - Omåttligt populärt FPS när det begav sig
+* [Unreal Tournament 2003][1] - Populärt arena-FPS när det begav sig
 * [The Secret of Monkey Island][2] - Guybrush Threepwoods första strapats (86)
 * [Lemmings][3] - Eskortera små pixlade lemmings från A till B (91)
 * [Commander Keen][4] - 8-årige Billy tar sig an rymdens faror (90-talet)
-* [The Legend of Zelda-serien][5] - Episka äventyr i mängder (86 och framåt)
+* [The Legend of Zelda-serien][5] - Episka äventyr (86 och framåt)
 * [Myst][6] - Säreget och vackert pusselspel (91)
 * [Day of the Tentacle][7] - Klurigt och knasigt peka-klicka-spel (87)
 * [Disney's Aladdin] [8] - Aladdin i plattformsformat (94)
