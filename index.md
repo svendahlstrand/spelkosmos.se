@@ -19,9 +19,6 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 		<td>
 			30 minuter
 		</td>
-		<td>
-			PLAY
-		</td>
 	</tr>
 	 {% endfor %}
 </table>
