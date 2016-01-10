@@ -3,6 +3,7 @@ episode: 1
 soundcloud: 230006591-spelkosmos-episod-1
 title: 6 "typiska" spel
 duration: "28:53"
+size: 41621547
 ---
 
 Välkommen till den allra första episoden av Spelkosmos! En podd om att spela, både helt allena men framförallt tillsammans, och upptäcka alla de fantastiska berättelser som gömmer sig i den oändliga spelvärlden. Vi kickstartar med att ge dig sex fenomenala speltips, tre typiska Sanna-spel och tre typiska Svens-spel. Både gamla godingar, som är lika härliga än idag, tillsammans med fräschare guldklimpar som du absolut inte får missa i spelmyllret.
