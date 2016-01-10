@@ -17,7 +17,7 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
       	<a href="{{ post.url }}">{{ post.title }}</a>
 		</td>
 		<td>
-			30 minuter
+			{% include pretty-duration.liquid duration=post.duration %}
 		</td>
 	</tr>
 	 {% endfor %}
