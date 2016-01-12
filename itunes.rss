@@ -11,6 +11,10 @@ layout: null
     <copyright>Spelkosmos 2016</copyright>
     <itunes:image href="http://spelkosmos.se/images/spelkosmos-cover-art.png" />
     <itunes:author>Sanna Lund &amp; Sven Dahlstrand</itunes:author>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:owner>
+        <itunes:email>hej@spelkosmos.se</itunes:email>
+    </itunes:owner>
 
     <description>Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och lär oss intressanta grejer om spel och att spela.</description>
 
@@ -31,7 +35,7 @@ layout: null
 
         <guid isPermalink="false">{{ post.url }}</guid>
 
-        <pubDate>{{ post.date }}</pubDate>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
         <itunes:duration>{{ post.duration }}</itunes:duration>
       </item>
