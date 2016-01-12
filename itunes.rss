@@ -1,0 +1,42 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Spelkosmos</title>
+    <link>http://spelkosmos.se</link>
+    <language>sv</language>
+    <copyright>Spelkosmos</copyright>
+    <itunes:subtitle>Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och lär oss intressanta grejer om spel och att spela.</itunes:subtitle>
+    <itunes:author>Sanna &amp; Sven</itunes:author>
+
+    <itunes:summary>Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och lär oss intressanta grejer om spel och att spela.</itunes:summary>
+    <description>Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och lär oss intressanta grejer om spel och att spela.</description>
+    <itunes:image href="https://pbs.twimg.com/profile_images/665269886973685760/n4cNTFCj.png" />
+
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+
+        <itunes:summary><![CDATA[
+            {{ post.content }}
+            ]]>
+        </itunes:summary>
+
+        <enclosure type="audio/mpeg" url="http://s3.eu-central-1.amazonaws.com/episoder.spelkosmos.se/spelkosmos-{{ post.episode }}.mp3" length="{{ post.size }}"/>
+
+        <guid>{{ post.url }}</guid>
+
+        <pubDate>{{ post.date }}</pubDate>
+
+        <itunes:duration>{{ post.duration }}</itunes:duration>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
