@@ -1,6 +1,5 @@
 ---
 episode: 3
-soundcloud: 230006591-spelkosmos-episod-1
 title: Spela gamla spel idag
 ---
 

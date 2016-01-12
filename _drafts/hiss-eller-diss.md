@@ -1,6 +1,5 @@
 ---
 episode: 2
-soundcloud: 230006591-spelkosmos-episod-1
 title: Hiss eller diss
 ---
 
