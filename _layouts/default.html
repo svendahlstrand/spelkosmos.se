@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CMerriweather" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
 
-    <title>{% if page.title %}{% include full-page-title.liquid %} - {% endif %}Spelkosmos</title>
+    <title>{% if page.title %}{% include page-title.liquid %} - {% endif %}Spelkosmos</title>
   </head>
   <body>
     <header>
@@ -22,7 +22,7 @@
       <main>
         <nav>
           {% if page.url != "/index.html" %}
-            <a href="/">Hem</a> &gt; {% include full-page-title.liquid %}
+            <a href="/">Hem</a> &gt; {% include page-title.liquid %}
           {% endif %}
         </nav>
 
