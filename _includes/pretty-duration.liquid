@@ -1,1 +1,1 @@
-{% assign minutes_seconds = include.duration | split:":" %}{{ minutes_seconds[0] }} minuter {{ minutes_seconds[1] }} sekunder
+{% if include.duration %}{% assign minutes_seconds = include.duration | split:":" %}{{ minutes_seconds[0] }} minuter {{ minutes_seconds[1] }} sekunder{% endif %}
