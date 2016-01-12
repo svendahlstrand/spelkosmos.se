@@ -19,6 +19,9 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 		<td>
 			{% include pretty-duration.liquid duration=post.duration %}
 		</td>
+		<td>
+			<time>{% include localized-date.liquid date=post.date %}</time>
+		</td>
 	</tr>
 	 {% endfor %}
 </table>

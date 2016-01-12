@@ -6,4 +6,5 @@ layout: default
   <h1>{% include full-page-title.liquid %}</h1>
   <audio controls="controls" src="http://s3.eu-central-1.amazonaws.com/episoder.spelkosmos.se/spelkosmos-{{ page.episode }}.mp3"></audio>
   {{ content }}
+  <time>{% include localized-date.liquid date=page.date %}</time>
 </article>
