@@ -29,7 +29,7 @@ layout: null
 
         <enclosure type="audio/mpeg" url="http://s3.eu-central-1.amazonaws.com/episoder.spelkosmos.se/spelkosmos-{{ post.episode }}.mp3" length="{{ post.size }}"/>
 
-        <guid>{{ post.url }}</guid>
+        <guid isPermalink="false">{{ post.url }}</guid>
 
         <pubDate>{{ post.date }}</pubDate>
 
