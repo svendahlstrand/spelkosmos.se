@@ -25,7 +25,7 @@ Ett extra tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten!
 * Spelkosmos av Niklas Dahlstrand
 * Box Boy! Soundtrack
 * Klaymen's Theme av Terry Scott Taylor
-* Moo Moo Farm från Mario Cart 64
+* Moo Moo Farm från Mario Kart 64
 * Hi-Tone Fandango av Peter McConnell
 * Porte Pluto av Daniel Olsén
 * The Path (A New Beginning) av Gustavo Santaolalla
