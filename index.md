@@ -17,7 +17,7 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 		</td>
 		<td>
 			{% include pretty-duration.liquid duration=post.duration %}
-			<time>{% include localized-date.liquid date=post.date %}</time>
+			<time datetime="{{ post.date | | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
 		</td>
 	</tr>
 	 {% endfor %}
