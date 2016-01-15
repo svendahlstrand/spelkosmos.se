@@ -13,10 +13,7 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 	{% for post in site.posts %}
 	<tr>
 		<td>
-			{{ post.episode }}.
-		</td>
-		<td>
-      	<a href="{{ post.url }}">{{ post.title }}</a>
+			{{ post.episode }}. <a href="{{ post.url }}">{{ post.title }}</a>
 		</td>
 		<td>
 			{% include pretty-duration.liquid duration=post.duration %}
