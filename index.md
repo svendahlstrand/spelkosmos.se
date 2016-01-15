@@ -5,6 +5,8 @@
 
 Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och lär oss intressanta grejer om spel och att spela. [Läs mer om oss][1].
 
+[Prenumerera via vår RSS][2]. Vi finns givetvis också [på Itunes][3].
+
 ## Alla episoder
 
 <table>
@@ -27,3 +29,5 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 </table>
 
 [1]: /om-oss/
+[2]: http://spelkosmos.se/itunes.rss
+[3]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
