@@ -74,6 +74,10 @@ tr {
   border-bottom: solid 1px #e1e1e1;
 }
 
+.js tr:hover {
+  cursor: pointer;
+}
+
 td {
   padding: 0.5em;
 }

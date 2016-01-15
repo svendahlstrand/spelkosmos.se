@@ -9,7 +9,7 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 
 ## Alla episoder
 
-<table>
+<table id="all-episodes">
 	{% for post in site.posts %}
 	<tr>
 		<td>
@@ -22,6 +22,34 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 	</tr>
 	 {% endfor %}
 </table>
+
+<script>
+(function () {
+	document.body.className += ' js';
+
+	function getParentElementByTagName(element, name) {
+		if (element.tagName === name.toUpperCase()) {
+			return element;
+		}
+		else if (element.parentElement !== null) {
+			return getParentElementByTagName(element.parentElement, name);
+		}
+
+		return null;
+	}
+
+	var table = document.getElementById('all-episodes');
+
+	table.addEventListener('click', function (event) {
+		var row = getParentElementByTagName(event.target, 'tr');
+		var allLinks = row && row.getElementsByTagName('a');
+
+		if (allLinks.length > 0) {
+			allLinks[0].click();
+		}
+	});
+}());
+</script>
 
 [1]: /om-oss/
 [2]: http://spelkosmos.se/itunes.rss
