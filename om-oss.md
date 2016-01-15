@@ -9,7 +9,9 @@ Välkommen till en podd om att fly verkligheten för en stund. Om att uppleva ny
 
 Och allra främst, ha en riktigt mysig stund tillsammans med oss!
 
-Tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten och illustratören [Kostic Milos][3] för den eminenta pixelgrafiken.
+[Prenumerera via vår RSS][5]. Vi finns givetvis också [på Itunes][6].
+
+Tack till [Niklas Dahlstrand][4] för den peppiga Spelkosmos-vinjetten och illustratören [Kostic Milos][3] för den eminenta pixelgrafiken.
 
 Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 
@@ -18,3 +20,6 @@ Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 [1]: http://sannalund.se
 [2]: https://svendahlstrand.se
 [3]: https://www.fiverr.com/harveydentmd
+[4]: https://soundcloud.com/chetreo
+[5]: http://spelkosmos.se/itunes.rss
+[6]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
