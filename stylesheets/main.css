@@ -78,6 +78,17 @@ td {
   padding: 0.5em;
 }
 
+td time {
+  display: block;
+}
+
+@media (min-width: 35em) {
+  td time {
+    float: right;
+    line-height: 2;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
@@ -93,4 +104,14 @@ a {
 time {
   font-size: 0.8em;
   color: #7a7a7a;
+}
+
+.extra {
+  display: none;
+}
+
+@media (min-width: 35em) {
+  .extra {
+    display: initial;
+  }
 }
