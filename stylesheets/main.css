@@ -40,6 +40,11 @@ main {
   padding: 0.2em 1em 3em 1em;
 }
 
+main img {
+    width: 100%;
+    height: auto;
+}
+
 nav {
   margin-top: 3em;
   font-size: 0.8em;
