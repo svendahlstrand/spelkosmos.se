@@ -11,7 +11,7 @@ layout: null
     <copyright>Spelkosmos 2016</copyright>
     <itunes:image href="http://spelkosmos.se/images/spelkosmos-cover-art.png" />
     <itunes:author>Sanna Lund &amp; Sven Dahlstrand</itunes:author>
-    <itunes:explicit>clean</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
         <itunes:email>hej@spelkosmos.se</itunes:email>
     </itunes:owner>
