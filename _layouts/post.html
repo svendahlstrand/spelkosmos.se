@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <h1>{% include page-title.liquid %}</h1>
-  <audio controls="controls" src="{% include aws-url.liquid episode=page.episode %}"></audio>
+  <audio controls="controls" preload="none" src="{% include aws-url.liquid episode=page.episode %}" ></audio>
   {{ content }}
   <time datetime="{{ page.date | | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=page.date %}</time>
 </article>
