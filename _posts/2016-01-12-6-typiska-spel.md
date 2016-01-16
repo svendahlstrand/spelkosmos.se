@@ -7,7 +7,7 @@ size: 27728584
 
 Välkommen till den allra första episoden av Spelkosmos! En podd om att spela, både helt allena men framförallt tillsammans, och upptäcka alla de fantastiska berättelser som gömmer sig i den oändliga spelvärlden. Vi kickstartar med att ge dig sex fenomenala speltips, tre typiska Sanna-spel och tre typiska Svens-spel. Både gamla godingar, som är lika härliga än idag, tillsammans med fräschare guldklimpar som du absolut inte får missa i spelmyllret.
 
-Ett extra tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten!
+Ett extra tack till [Niklas Dahlstrand][9] för den peppiga Spelkosmos-vinjetten!
 
 ## Spel som det snackas om
 
@@ -22,7 +22,7 @@ Ett extra tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten!
 
 ## Ljud och musik i denna episod
 
-* Spelkosmos av Niklas Dahlstrand
+* Spelkosmos av [Niklas Dahlstrand][9]
 * Box Boy! Soundtrack
 * Klaymen's Theme av Terry Scott Taylor
 * Moo Moo Farm från Mario Kart 64
@@ -38,3 +38,4 @@ Ett extra tack till Niklas Dahlstrand för den peppiga Spelkosmos-vinjetten!
 [6]: https://en.wikipedia.org/wiki/Mario_Kart_64
 [7]: https://en.wikipedia.org/wiki/The_Last_of_Us
 [8]: https://en.wikipedia.org/wiki/Armikrog
+[9]: https://soundcloud.com/chetreo
