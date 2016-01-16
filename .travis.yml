@@ -1,4 +1,6 @@
 language: ruby
+jdk:
+  - oraclejdk8
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
