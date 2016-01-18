@@ -8,6 +8,7 @@ task :test do |t, args|
 
   build_website
   validate_html(should_run_fast)
+
   validate_rss unless should_run_fast
 end
 
@@ -42,5 +43,9 @@ def validate_rss
     puts "#{warning[:type]} (Line #{warning[:line]})".yellow
     puts "#{warning[:text]}".yellow
     puts ""
+  end
+
+  if !v.valid?
+    raise 'RSS feed is not valid!'
   end
 end
