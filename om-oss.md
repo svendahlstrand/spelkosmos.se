@@ -1,6 +1,7 @@
 ---
 title: Om oss
 permalink: /om-oss/
+smart_banner: true
 ---
 
 # Om oss
