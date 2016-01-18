@@ -4,14 +4,23 @@ require 'feed_validator'
 require_relative '_lib/vnu'
 
 task :test do |t, args|
-  sh 'bundle exec jekyll build'
-  checks_to_ignore = args.extras.include?('fast') ? ['VnuCheck', 'LinkCheck'] : []
+  should_run_fast = args.extras.include?('fast')
 
-  HTML::Proofer.new('./_site', empty_alt_ignore: true, check_html: true, only_4xx: true, checks_to_ignore: checks_to_ignore).run
-  validate_rss
+  build_website
+  validate_html(should_run_fast)
+  validate_rss unless should_run_fast
 end
 
 task :default => [:test]
+
+def build_website
+  sh 'bundle exec jekyll build'
+end
+
+def validate_html(should_run_fast)
+  checks_to_ignore =  should_run_fast ? ['VnuCheck', 'LinkCheck'] : []
+  HTML::Proofer.new('./_site', empty_alt_ignore: true, check_html: true, only_4xx: true, checks_to_ignore: checks_to_ignore).run
+end
 
 def validate_rss
   puts ''
