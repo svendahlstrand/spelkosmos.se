@@ -25,27 +25,22 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 
 <script>
 (function () {
-  document.body.className += ' js';
+  var browserIsSupported = 'classList' in document.documentElement && 'closest' in document.documentElement && 'querySelector' in document && 'addEventListener' in document;
 
-  function getParentElementByTagName(element, name) {
-    if (element.tagName === name.toUpperCase()) {
-      return element;
-    }
-    else if (element.parentElement !== null) {
-      return getParentElementByTagName(element.parentElement, name);
-    }
-
-    return null;
+  if (!browserIsSupported) {
+    return;
   }
 
-  var table = document.getElementById('all-episodes');
+  document.body.classList.add('js');
+
+  var table = document.querySelector('#all-episodes');
 
   table.addEventListener('click', function (event) {
-    var row = getParentElementByTagName(event.target, 'tr');
-    var allLinks = row && row.getElementsByTagName('a');
+    var row = event.target.closest('tr');
+    var firstLink = row && row.querySelector('a');
 
-    if (allLinks.length > 0) {
-      allLinks[0].click();
+    if (firstLink) {
+      firstLink.click();
     }
   });
 }());
