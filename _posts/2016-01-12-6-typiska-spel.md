@@ -12,12 +12,12 @@ Ett extra tack till [Niklas Dahlstrand][9] för den peppiga Spelkosmos-vinjetten
 ## Spel som det snackas om
 
 * [Box Boy!][1] - Pixel-pussel-plattformsspel
-* [Grim Fandango][2] - Kultförklarat peka klicka-spel 
+* [Grim Fandango][2] - Kultförklarat peka klicka-spel
 * [The Neverhood][3] - Äventyr i en surrealistisk lervärld
 * [Device 6][4] - Klurigt mysterie med skön musik
-* [Towerfall][5] - Engagerande pil och båge-spel 
+* [Towerfall][5] - Engagerande pil och båge-spel
 * [Mario Kart 64][6] - (Färg)glatt hänga med vänner-spel
-* [The Last of Us][7] - Medryckande zombieapokalyps 
+* [The Last of Us][7] - Medryckande zombieapokalyps
 * [Armikrog][8] - Spirituell uppföljare till The Neverhood
 
 ## Ljud och musik i denna episod

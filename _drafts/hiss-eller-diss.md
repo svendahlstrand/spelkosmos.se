@@ -15,7 +15,7 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 * [Life is Strange][6] - Tonårsdrama och tidsresor
 * [Until Dawn][7] - Nervkittlande skräck i de avskilda bergen
 * [Dear Esther][8] - Utforskandet av en ö i Hebriderna
-* [The Vanishing of Ethan Carter][9] - En jakt på sanningen 
+* [The Vanishing of Ethan Carter][9] - En jakt på sanningen
 * [Gone Home][10] - Frågefyllt utforskande
 * [The Beginner's Guide][11] - Omtalad och tänkvärd promenadsimulator
 * [Broken Age][12] - Kickstartat spel från Tim Shafer

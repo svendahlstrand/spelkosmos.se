@@ -13,22 +13,23 @@ layout: null
     <itunes:author>Sanna Lund &amp; Sven Dahlstrand</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-        <itunes:email>hej@spelkosmos.se</itunes:email>
+      <itunes:email>hej@spelkosmos.se</itunes:email>
     </itunes:owner>
 
     <description>Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och lär oss intressanta grejer om spel och att spela.</description>
 
     <itunes:category text="Games &amp; Hobbies">
-        <itunes:category text="Video Games"/>
+      <itunes:category text="Video Games"/>
     </itunes:category>
 
     {% for post in site.posts %}
       <item>
         <title>{{ post.title }}</title>
 
-        <itunes:summary><![CDATA[
+        <itunes:summary>
+          <![CDATA[
             {{ post.content }}
-            ]]>
+          ]]>
         </itunes:summary>
 
         <enclosure type="audio/mpeg" url="{% include aws-url.liquid episode=post.episode %}" length="{{ post.size }}"/>

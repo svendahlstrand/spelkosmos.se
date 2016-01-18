@@ -10,44 +10,44 @@ Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna
 ## Alla episoder
 
 <table id="all-episodes">
-	{% for post in site.posts %}
-	<tr>
-		<td>
-			{{ post.episode }}. <a href="{{ post.url }}">{{ post.title }}</a>
-		</td>
-		<td>
-			{% include pretty-duration.liquid duration=post.duration %}
-			<time datetime="{{ post.date | | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
-		</td>
-	</tr>
-	 {% endfor %}
+  {% for post in site.posts %}
+    <tr>
+      <td>
+        {{ post.episode }}. <a href="{{ post.url }}">{{ post.title }}</a>
+      </td>
+      <td>
+        {% include pretty-duration.liquid duration=post.duration %}
+        <time datetime="{{ post.date | | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
+      </td>
+    </tr>
+  {% endfor %}
 </table>
 
 <script>
 (function () {
-	document.body.className += ' js';
+  document.body.className += ' js';
 
-	function getParentElementByTagName(element, name) {
-		if (element.tagName === name.toUpperCase()) {
-			return element;
-		}
-		else if (element.parentElement !== null) {
-			return getParentElementByTagName(element.parentElement, name);
-		}
+  function getParentElementByTagName(element, name) {
+    if (element.tagName === name.toUpperCase()) {
+      return element;
+    }
+    else if (element.parentElement !== null) {
+      return getParentElementByTagName(element.parentElement, name);
+    }
 
-		return null;
-	}
+    return null;
+  }
 
-	var table = document.getElementById('all-episodes');
+  var table = document.getElementById('all-episodes');
 
-	table.addEventListener('click', function (event) {
-		var row = getParentElementByTagName(event.target, 'tr');
-		var allLinks = row && row.getElementsByTagName('a');
+  table.addEventListener('click', function (event) {
+    var row = getParentElementByTagName(event.target, 'tr');
+    var allLinks = row && row.getElementsByTagName('a');
 
-		if (allLinks.length > 0) {
-			allLinks[0].click();
-		}
-	});
+    if (allLinks.length > 0) {
+      allLinks[0].click();
+    }
+  });
 }());
 </script>
 
