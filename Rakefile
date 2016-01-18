@@ -24,28 +24,29 @@ def validate_html(should_run_fast)
 end
 
 def validate_rss
-  puts ''
-  puts 'Validating RSS feed'.cyan
+  puts "\nValidating RSS feed...".cyan
 
-  file = File.open("./_site/itunes.rss", "rb")
+  file = File.open('./_site/itunes.rss', 'rb')
   contents = file.read
 
   v = W3C::FeedValidator.new()
   v.validate_data(contents)
 
+  puts "\nErrors\n".red.bold if v.errors.any?
+
   v.errors.each do |error|
-    puts "#{error[:type]} (Line #{error[:line]})".red
-    puts "#{error[:text]}".red
-    puts ""
+    puts "  * #{error[:text]} (line #{error[:line]})".red
   end
+
+  puts "\nWarnings\n".yellow.bold if v.warnings.any?
 
   v.warnings.each do |warning|
-    puts "#{warning[:type]} (Line #{warning[:line]})".yellow
-    puts "#{warning[:text]}".yellow
-    puts ""
+    puts "  * #{warning[:text]} (line #{warning[:line]})".yellow
   end
 
-  if !v.valid?
+  if v.valid?
+    puts "\nRSS looks fine, good work!".green
+  else
     raise 'RSS feed is not valid!'
   end
 end
