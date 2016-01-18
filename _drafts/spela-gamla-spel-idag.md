@@ -10,13 +10,14 @@ Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel s
 ## Spel som det snackas om
 
 * [Unreal Tournament 2003][1] - Populärt arena-FPS när det begav sig
-* [The Secret of Monkey Island][2] - Guybrush Threepwoods första strapats (86)
+* [The Legend of Zelda-serien][5] - Episka äventyr (86 och framåt)
 * [Lemmings][3] - Eskortera små pixlade lemmings från A till B (91)
 * [Commander Keen][4] - 8-årige Billy tar sig an rymdens faror (90-talet)
-* [The Legend of Zelda-serien][5] - Episka äventyr (86 och framåt)
 * [Myst][6] - Säreget och vackert pusselspel (91)
+* [The Secret of Monkey Island][2] - Guybrush Threepwoods första strapats (86)
 * [Day of the Tentacle][7] - Klurigt och knasigt peka-klicka-spel (87)
 * [Disney's Aladdin] [8] - Aladdin i plattformsformat (94)
+* [Grand Theft Auto-serien][9] - Full fart-spel i fiktiva storstäder
 
 
 ## Ljud och musik i denna episod
@@ -31,3 +32,4 @@ Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel s
 [6]: https://en.wikipedia.org/wiki/Myst
 [7]: https://en.wikipedia.org/wiki/Day_of_the_Tentacle
 [8]: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(1994_video_game)
+[9]: https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series)
