@@ -1,13 +1,15 @@
 ---
 episode: 2
 title: Hiss eller diss
+duration: "38:25"
+length: 36882726
 ---
 
 Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open world", spel som släpps i episoder, val som får konsekvenser för spelets handling, promenadsimulatorer och gräsrotsfinansiering?
 
 ## Spel som det snackas om
 
-* [Grand Theft Auto V][1] - Fartfylld lekstuga i fiktiva Los Santos
+* [Grand Theft Auto V][1] - Fartfylld action i fiktiva Los Santos
 * [The Witcher 3][2] - Äventyr med monsterslakt och bra sidouppdrag
 * [King's Quest][3] - Retrosaga i ny härlig tappning
 * [The Walking Dead][4] - Populär speltolkning av Kirkmans serie
@@ -15,7 +17,7 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 * [Life is Strange][6] - Tonårsdrama och tidsresor
 * [Until Dawn][7] - Nervkittlande skräck i de avskilda bergen
 * [Dear Esther][8] - Utforskandet av en ö i Hebriderna
-* [The Vanishing of Ethan Carter][9] - En jakt på sanningen
+* [The Vanishing of Ethan Carter][9] - En jakt på sanning
 * [Gone Home][10] - Frågefyllt utforskande
 * [The Beginner's Guide][11] - Omtalad och tänkvärd promenadsimulator
 * [Broken Age][12] - Kickstartat spel från Tim Shafer
@@ -24,8 +26,7 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 
 ## Ljud och musik i denna episod
 
-* Spelkosmos av Niklas Dahlstrand
-
+* Spelkosmos av [Niklas Dahlstrand][14] 
 
 [1]: https://en.wikipedia.org/wiki/Grand_Theft_Auto_V
 [2]: https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt
@@ -40,3 +41,4 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 [11]: https://en.wikipedia.org/wiki/The_Beginner%27s_Guide
 [12]: https://en.wikipedia.org/wiki/Broken_Age
 [13]: https://en.wikipedia.org/wiki/The_Journey_Down
+[14]: https://soundcloud.com/chetreo

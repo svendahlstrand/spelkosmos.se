@@ -1,9 +1,11 @@
 ---
 episode: 3
 title: Spela gamla spel idag
+duration: "40:03"
+length: 38455507
 ---
 
-Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel som du kanske missat. För att inte tala om mega-gamla spel som väcker nostalgikänslor. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
+Varje dag släpps nya spännande spel, men sen finns ju också äldre spel som du kanske missat. För att inte tala om mega-gamla spel som väcker nostalgikänslor. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
 
 ## Spela gamla spel-resurser
 
@@ -18,11 +20,6 @@ Varje dag släpps nya spännande spel, men sen finns ju också alla gamla spel s
 * [Day of the Tentacle][7] - Klurigt och knasigt peka-klicka-spel (87)
 * [Disney's Aladdin] [8] - Aladdin i plattformsformat (94)
 * [Grand Theft Auto-serien][9] - Full fart-spel i fiktiva storstäder
-
-
-## Ljud och musik i denna episod
-
-* Spelkosmos av Niklas Dahlstrand
 
 [1]: https://en.wikipedia.org/wiki/Unreal_Tournament_2003
 [2]: https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island
