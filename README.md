@@ -4,7 +4,7 @@
 
 Om det är första gången du jobbar med webbplatsen, eller om du sitter vid en ny dator, behöver du sätta upp en arbetsmiljö först. Läs mer under [Kom igång på OS X][1]. Ibland måste du hoppa in i terminalen för att utföra kommandon. Det låter läskigt men är inte speciellt svårt. Läs [Introduction to the Mac OS X Command Line][2] för att komma igång snabbt.
 
-## Förhandsgranska webbsidan lokalt.
+## Förhandsgranska webbplatsen lokalt.
 
 Öppna terminalen, ställ dig i katalogen och kör `jekyll serve`.
 
