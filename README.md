@@ -15,6 +15,22 @@ jekyll serve --drafts
 
 Sen besöker du webbplatsen på adressen <http://localhost:4000>. För att stänga servern trycker du `ctrl` + `c` i terminalfönstret.
 
+## Testa webbplatsen
+
+Det finns ett gäng automatiska tester du kan köra, för att se så webbplatsen mår bra. När du kör testerna kan du upptäcka trasiga länkar och bilder samt fel i HTML-filer och RSS:en.
+
+För att testa webbplatsen ställder du dig i projektkatalogen och kör:
+
+```sh
+rake test
+```
+
+Du kan även välja att inkludera utkast (avsnitt i mappen `_drafts`):
+
+```sh
+rake test[include_drafts]
+```
+
 ## Kom igång på OS X
 
 Du behöver installera `Ruby`, `bundler` och `git` (eller `GitHub Desktop`). Det finns lite olika tillvägagångssätt och här beskriver jag ett.
