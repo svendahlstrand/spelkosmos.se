@@ -21,12 +21,8 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 * [Gone Home][10] - Frågefyllt utforskande
 * [The Beginner's Guide][11] - Omtalad och tänkvärd promenadsimulator
 * [Broken Age][12] - Kickstartat spel från Tim Shafer
-* Memoranda - Lovande pecka-klicka-spel
-* [The Journey Down][13] - Svenskutvecklat spel med karibiska vibbar
-
-## Ljud och musik i denna episod
-
-* Spelkosmos av [Niklas Dahlstrand][14] 
+* [Memoranda][13] - Lovande pecka-klicka-spel
+* [The Journey Down][14] - Svenskutvecklat spel med karibiska vibbar
 
 [1]: https://en.wikipedia.org/wiki/Grand_Theft_Auto_V
 [2]: https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt
@@ -40,5 +36,5 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 [10]: https://en.wikipedia.org/wiki/Gone_Home
 [11]: https://en.wikipedia.org/wiki/The_Beginner%27s_Guide
 [12]: https://en.wikipedia.org/wiki/Broken_Age
-[13]: https://en.wikipedia.org/wiki/The_Journey_Down
-[14]: https://soundcloud.com/chetreo
+[13]: https://www.kickstarter.com/projects/1929139578/memoranda/description
+[14]: https://en.wikipedia.org/wiki/The_Journey_Down
