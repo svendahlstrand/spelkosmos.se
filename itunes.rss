@@ -32,7 +32,7 @@ layout: null
           ]]>
         </itunes:summary>
 
-        <enclosure type="audio/mpeg" url="{% include aws-url.liquid episode=post.episode %}" length="{{ post.size }}"/>
+        <enclosure type="audio/mpeg" url="{% include aws-url.liquid episode=post.episode %}" length="{{ post.length }}"/>
 
         <guid isPermaLink="false">{{ post.url }}</guid>
 
