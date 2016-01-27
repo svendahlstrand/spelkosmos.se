@@ -3,7 +3,7 @@
 
 # Välkommen till Spelkosmos
 
-Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och snackar om spel varannan onsdag. [Läs mer om oss][1].
+Det här är en peppig podcast om spel. Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och snackar om spel varannan onsdag. [Läs mer om oss][1].
 
 [Prenumerera via vår RSS][2]. Vi finns givetvis också [på Itunes][3].
 
