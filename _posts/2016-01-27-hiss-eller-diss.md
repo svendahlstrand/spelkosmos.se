@@ -19,7 +19,7 @@ Nu ska det hissas och dissas! Vad tycker vi egentligen om fenomen som "open worl
 * [Dear Esther][8] - Utforskandet av en ö i Hebriderna
 * [The Vanishing of Ethan Carter][9] - En jakt på sanning
 * [Gone Home][10] - Frågefyllt utforskande
-* [The Beginner's Guide][11] - Omtalad och tänkvärd promenadsimulator
+* [The Beginner's Guide][11] - Omtalad promenadsimulator
 * [Broken Age][12] - Kickstartat spel från Tim Shafer
 * [Memoranda][13] - Lovande pecka-klicka-spel
 * [The Journey Down][14] - Svenskutvecklat spel med karibiska vibbar
