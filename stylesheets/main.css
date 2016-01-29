@@ -66,6 +66,11 @@ footer a {
   margin: 0 0.5em;
 }
 
+audio {
+  vertical-align: bottom;
+  margin-right: 0.5em;
+}
+
 table {
   width: 100%;
 }
@@ -105,7 +110,7 @@ a {
   color: #0090b5;
 }
 
-time {
+time, small {
   font-size: 0.8em;
   color: #7a7a7a;
 }
