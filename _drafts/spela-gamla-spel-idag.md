@@ -5,9 +5,7 @@ duration: "40:03"
 length: 38455507
 ---
 
-Varje dag släpps nya spännande spel, men sen finns ju också alla äldre spel som du kanske missat. För att inte tala om mega-gamla spel som väcker nostalgikänslor. Vad tycker vi om att spela äldre spel idag, och hur gör vi rent praktiskt för att ens kunna spela gamla godingar? En inte alltid så enkel uppgift.
-
-## Spela gamla spel-resurser
+Varje dag släpps nya spännande spel. Men sen finns ju också alla äldre spel som du kanske missat. För att inte tala om mega-gamla spel som väcker nostalgikänslor. Vad tycker vi om att spela äldre spel idag och hur gör man rent praktiskt för att spela gamla godingar?
 
 ## Spel som det snackas om
 
@@ -21,6 +19,20 @@ Varje dag släpps nya spännande spel, men sen finns ju också alla äldre spel 
 * [Disney's Aladdin] [8] - Aladdin i plattformsformat
 * [Grand Theft Auto-serien][9] - Full fart-spel i fiktiva storstäder
 
+## För dig som vill komma igång
+
+Är du sugen på att spela det där gamla spelet du aldrig hann spela? Eller bara uppleva lite nostalgi? Här kommer några tips på hur du kan gå tillväga.
+
+* **Kolla om det finns en nyutgåva**. Leta upp spelet du är intresserad av på Wikipedia där det ofta står om det finns en nyutgåva (och på vilka plattformar i så fall).
+
+* **[VirtualConsole][10]** finns för både Wii och Nintendo 3DS med ett stort utbud av Nintendo-klassiker.
+
+* **Köp begagnade spel** på till exempel [Blocket][11] eller [Tradera][12]. [Ebay][13] är också ett hett tips. Undersök om dina konsoller är bakåtkompatibel innan du köper begagnat. Nintendo 3DS kan spela DS-spel och PlayStation 3 klarar Playstation- och Playstation 2-diton till exempel.
+
+* **Kan du inte spela gamla PC-spel** för att du sitter på en Mac eller Linux-maskin? [PlayOnMac][14] och [PlayOnLinux][15] fixar biffen.
+
+* **Äventyrsspelfantast?** Om du har kvar gamla klassiker från LucasArts eller Sierra kan du spela dem på nästan vilken plattform som helst, nu för tiden, tack vare programmet [ScummVM][16]. [Beneath a Steel Sky][17] är dessutom gratis.
+
 [1]: https://en.wikipedia.org/wiki/Unreal_Tournament_2003
 [2]: https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island
 [3]: https://en.wikipedia.org/wiki/Lemmings_(video_game)
@@ -30,3 +42,11 @@ Varje dag släpps nya spännande spel, men sen finns ju också alla äldre spel 
 [7]: https://en.wikipedia.org/wiki/Day_of_the_Tentacle
 [8]: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(1994_video_game)
 [9]: https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series)
+[10]: http://www.nintendo.com/games/game-guide#/filter/-|-|-|-|-|descend|releaseDate|-|1|-|-|-|-
+[11]: http://www.blocket.se/jonkoping/datorer_tv-spel/tV-spel?cg=5020&w=3&st=s&ca=17&is=1&l=0&md=th&c=5025
+[12]: http://www.tradera.com/tv-spel-datorspel-30
+[13]: http://www.ebay.com/sch/Video-Games-/139973/i.html
+[14]: https://www.playonmac.com/en/
+[15]: https://www.playonlinux.com/sv/
+[16]: http://scummvm.org/
+[17]: http://scummvm.org/games#sky
