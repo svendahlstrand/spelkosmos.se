@@ -5,7 +5,7 @@ require_relative '_lib/vnu'
 
 task :test do |_, args|
   should_run_fast = args.extras.include?('fast')
-  should_include_drafts = args.extras.include?('include_drafts')
+  should_include_drafts = args.extras.include?('drafts')
 
   build_website(should_include_drafts)
   validate_html(should_run_fast)

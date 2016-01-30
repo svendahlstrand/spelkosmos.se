@@ -28,7 +28,7 @@ rake test
 Du kan även välja att inkludera utkast (avsnitt i mappen `_drafts`):
 
 ```sh
-rake test[include_drafts]
+rake test[drafts]
 ```
 
 ## Kom igång på OS X
