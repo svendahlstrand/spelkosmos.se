@@ -37,22 +37,22 @@ def validate_rss
   file = File.open('./_site/itunes.rss', 'rb')
   contents = file.read
 
-  v = W3C::FeedValidator.new
-  v.validate_data(contents)
+  feed = W3C::FeedValidator.new
+  feed.validate_data(contents)
 
-  puts "\nErrors\n".red.bold if v.errors.any?
+  puts "\nErrors\n".red.bold if feed.errors.any?
 
-  v.errors.each do |error|
+  feed.errors.each do |error|
     puts "  * #{error[:text]} (line #{error[:line]})".red
   end
 
-  puts "\nWarnings\n".yellow.bold if v.warnings.any?
+  puts "\nWarnings\n".yellow.bold if feed.warnings.any?
 
-  v.warnings.each do |warning|
+  feed.warnings.each do |warning|
     puts "  * #{warning[:text]} (line #{warning[:line]})".yellow
   end
 
-  if v.valid?
+  if feed.valid?
     puts "\nRSS looks fine, good work!".green
   else
     fail 'RSS feed is not valid!'
