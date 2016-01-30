@@ -12,12 +12,12 @@ Det här är en peppig podcast om spel. Upplev nya och gamla spelvärldar och ma
 <table id="all-episodes">
   {% for post in site.posts %}
     <tr>
+    <td>{{ post.episode }}.</td>
       <td>
-        {{ post.episode }}. <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </td>
       <td>
-        {% include pretty-duration.liquid duration=post.duration %}
-        <time datetime="{{ post.date | | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
+        {% include pretty-duration.liquid duration=post.duration %}&nbsp;<time datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
       </td>
     </tr>
   {% endfor %}
