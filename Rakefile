@@ -3,7 +3,7 @@ require 'colored'
 require 'feed_validator'
 require_relative '_lib/vnu'
 
-task :test do |t, args|
+task :test do |_, args|
   should_run_fast = args.extras.include?('fast')
   should_include_drafts = args.extras.include?('include_drafts')
 
@@ -13,7 +13,7 @@ task :test do |t, args|
   validate_rss unless should_run_fast
 end
 
-task :default => [:test]
+task default: [:test]
 
 def build_website(should_include_drafts)
   cmd = 'bundle exec jekyll build'
@@ -23,8 +23,12 @@ def build_website(should_include_drafts)
 end
 
 def validate_html(should_run_fast)
-  checks_to_ignore =  should_run_fast ? ['VnuCheck', 'LinkCheck'] : ['HtmlCheck']
-  HTML::Proofer.new('./_site', empty_alt_ignore: true, check_html: true, only_4xx: true, checks_to_ignore: checks_to_ignore).run
+  checks_to_ignore = should_run_fast ? %w(VnuCheck LinkCheck) : %w(HtmlCheck)
+  HTML::Proofer.new('./_site', empty_alt_ignore: true,
+                               check_html: true,
+                               only_4xx: true,
+                               checks_to_ignore: checks_to_ignore
+                   ).run
 end
 
 def validate_rss
@@ -33,7 +37,7 @@ def validate_rss
   file = File.open('./_site/itunes.rss', 'rb')
   contents = file.read
 
-  v = W3C::FeedValidator.new()
+  v = W3C::FeedValidator.new
   v.validate_data(contents)
 
   puts "\nErrors\n".red.bold if v.errors.any?
@@ -51,6 +55,6 @@ def validate_rss
   if v.valid?
     puts "\nRSS looks fine, good work!".green
   else
-    raise 'RSS feed is not valid!'
+    fail 'RSS feed is not valid!'
   end
 end
