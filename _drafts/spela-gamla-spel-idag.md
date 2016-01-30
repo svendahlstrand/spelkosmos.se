@@ -23,15 +23,15 @@ Varje dag släpps nya spännande spel. Men sen finns ju också alla äldre spel 
 
 Är du sugen på att spela det där gamla spelet du aldrig hann spela? Eller bara uppleva lite nostalgi? Här kommer några tips på hur du kan gå tillväga.
 
-* **Kolla om det finns en nyutgåva**. Leta upp spelet du är intresserad av på Wikipedia där det ofta står om det finns en nyutgåva (och på vilka plattformar i så fall).
+* **Kolla om det finns en nyutgåva**. Leta upp spelet du är intresserad av på Wikipedia där det ofta står om det finns en nyutgåva (och i så fall på vilka plattformar).
 
 * **[VirtualConsole][10]** finns för både Wii och Nintendo 3DS med ett stort utbud av Nintendo-klassiker.
 
-* **Köp begagnade spel** på till exempel [Blocket][11] eller [Tradera][12]. [Ebay][13] är också ett hett tips. Undersök om dina konsoller är bakåtkompatibel innan du köper begagnat. Nintendo 3DS kan spela DS-spel och PlayStation 3 klarar Playstation- och Playstation 2-diton till exempel.
+* **Köp begagnade spel** på till exempel [Blocket][11] eller [Tradera][12]. [Ebay][13] är också ett hett tips. Undersök om dina konsoller är bakåtkompatibel innan du köper begagnat. Nintendo 3DS kan spela DS-spel och PlayStation 3 klarar Playstation- och Playstation 2-diton.
 
 * **Kan du inte spela gamla PC-spel** för att du sitter på en Mac eller Linux-maskin? [PlayOnMac][14] och [PlayOnLinux][15] fixar biffen.
 
-* **Äventyrsspelfantast?** Om du har kvar gamla klassiker från LucasArts eller Sierra kan du spela dem på nästan vilken plattform som helst, nu för tiden, tack vare programmet [ScummVM][16]. [Beneath a Steel Sky][17] är dessutom gratis.
+* **Äventyrsspelfantast?** Om du har kvar gamla klassiker från LucasArts eller Sierra kan du spela dem på nästan vilken plattform som helst tack vare programmet [ScummVM][16]. [Beneath a Steel Sky][17] är dessutom gratis.
 
 [1]: https://en.wikipedia.org/wiki/Unreal_Tournament_2003
 [2]: https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island
