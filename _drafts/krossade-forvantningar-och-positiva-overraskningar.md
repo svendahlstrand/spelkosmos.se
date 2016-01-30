@@ -5,16 +5,20 @@ duration: "00:00"
 length: 0
 ---
 
+I spelens värld upplever vi ständigt toppar och dalar. Vilka spel har gjort oss riktigt besvikna och vilka har oväntat förgyllt våra spelstunder. Och framförallt varför? Vi kryssar mellan löften som inte infriats, etablerade universum som raserats i ett ögonblink och genres som överraskat. 
+
+
 ## Bra och mindre bra spel
 
-* [Spore][1] - Hype och marknadsföring. Stora spel vs små spel?
-* [The Cave][2] - Ron Gilbert som man tycker om levererar inte
-* [GoT][3] och [Back to the Future][4] - Redan etablerat universum
-* [Armikrog][5] - Älskar The Neverhood men denna spirituella uppföljare möts av mer ris än ros. Jag vågar inte spela då jag är rädd för att bli besviken.
-* [Okami][6] - Inte sett, hört eller läst någonting
-* [Pullblox][7] - Hade inte hört talas om utan såg det i eShop och tänkte pusselspel!
-* [Stasis][8]  - En genre som kändes svår för mig (science fiction horror point-and-click adventure) och ok betyg
-* [Dying Light][9] - Blev tipsad av Hampus men var skeptisk för att det var ett första-personsspel som verkade actionladdat.
+* [Spore][1] - Över-hypad evolutionssimulator
+* [The Cave][2] - Pusseläventyr i magisk grotta
+* [Game of Thrones][3] - Speltolkningen av George R. R. Martins universum
+* [Back to the Future][4] - Episodspel baserat på kultfilmerna
+* [Armikrog][5] - Spirituell uppföljare till The Neverhood
+* [Ōkami][6] - Färgsprakande äventyr bland japanska myter
+* [Pullblox][7] - Poppis block-pussel
+* [Stasis][8]  - Science fiction horror point-and-click adventure!
+* [Dying Light][9] - Adrenalinfylld parkour i zombieland
 
 [1]: https://en.wikipedia.org/wiki/Spore_(2008_video_game)
 [2]: https://en.wikipedia.org/wiki/The_Cave_(video_game)
