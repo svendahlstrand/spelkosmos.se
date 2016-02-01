@@ -5,7 +5,7 @@ layout: default
 <article>
   <h1>{% include page-title.liquid %}</h1>
   <audio controls="controls" preload="none" src="{% include aws-url.liquid episode=page.episode %}" ></audio>
-  <a href="{% include aws-url.liquid episode=page.episode %}" download>Ladda&nbsp;ner</a>&nbsp;<small>({{ page.length | divided_by: 1000000 }}&nbsp;MB)</small>
+  <a href="{% include aws-url.liquid episode=page.episode %}" download>Ladda&nbsp;ner</a>&nbsp;<small>({{ page.length | divided_by: 1000000.0 | round: 1 | replace: '.', ',' }}&nbsp;MB)</small>
   {{ content }}
   <time datetime="{{ page.date | | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=page.date %}</time>
 </article>
