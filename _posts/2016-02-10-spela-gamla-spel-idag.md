@@ -16,7 +16,6 @@ Varje dag släpps nya spännande spel. Men sen finns ju också alla äldre spel 
 * [Myst][6] - Säreget och vackert pusselspel
 * [The Secret of Monkey Island][2] - Guybrush Threepwoods första strapats
 * [Day of the Tentacle][7] - Klurigt och knasigt peka-klicka-spel
-* [Disney's Aladdin] [8] - Aladdin i plattformsformat
 * [Grand Theft Auto-serien][9] - Full fart-spel i fiktiva storstäder
 
 ## För dig som vill komma igång
