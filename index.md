@@ -5,7 +5,7 @@
 
 Det här är en peppig podcast om spel. Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och snackar om spel varannan onsdag. [Läs mer om oss][1].
 
-[Prenumerera via vår RSS][2]. Vi finns givetvis också [på Itunes][3].
+Prenumerera på podden [via Itunes][2], eller mata in vår [RSS-ström][3] i din podcast-app.
 
 ## Alla episoder
 
@@ -47,5 +47,5 @@ Det här är en peppig podcast om spel. Upplev nya och gamla spelvärldar och ma
 </script>
 
 [1]: /om-oss/
-[2]: http://spelkosmos.se/itunes.rss
-[3]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
+[2]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
+[3]: http://spelkosmos.se/itunes.rss
