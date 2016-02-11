@@ -5,7 +5,7 @@
 
 Det här är en peppig podcast om spel. Upplev nya och gamla spelvärldar och magiska berättelser tillsammans med Sanna och Sven. Vi tipsar, klurar och snackar om spel varannan onsdag. [Läs mer om oss][1].
 
-Prenumerera på podden [via Itunes][2], eller mata in vår [RSS-ström][3] i din podcast-app.
+<p class="highlight" markdown="1">Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.</p>
 
 ## Alla episoder
 
