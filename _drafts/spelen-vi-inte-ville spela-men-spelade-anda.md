@@ -15,6 +15,11 @@ Vad är grejen med att gå utanför sin komfortzon och spela spel som du inte ha
 * [Tower Fall][4]
 * [Unravel][5]
 
+## Musik du hör i bakgrunden
+
+* Puzzles av Tomohito Nishiura
+* Ethan's Theme av Mikolai Stroinski
+
 [1]: https://en.wikipedia.org/wiki/Professor_Layton_and_the_Last_Specter
 [2]: https://en.wikipedia.org/wiki/The_Vanishing_of_Ethan_Carter
 [3]: https://en.wikipedia.org/wiki/The_Beginner%27s_Guide
