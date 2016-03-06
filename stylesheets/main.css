@@ -128,7 +128,7 @@ time, small {
 
 @media (min-width: 42em) {
   td:last-child {
-    width: 50%;
+    width: 51%;
   }
 
   td time {
