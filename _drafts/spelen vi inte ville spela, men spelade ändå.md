@@ -5,7 +5,7 @@ duration: "00:0"
 length: 0
 ---
 
-Vad är grejen med att gå utanför din komfortzon och spela spel som du inte hade tänkt spela? Är det något du borde göra oftare eller är det bara slöseri med din dyrbara tid? Vi har utmanat varandra med en "spela ett spel du aldrig hade tänkt spela"-kväll (med fruktsallad) för mixa upp lite i spelvardagen.
+Vad är grejen med att gå utanför sin komfortzon och spela spel som du inte hade tänkt spela? Är det något du borde göra oftare eller är det bara slöseri med din dyrbara tid? Vi har utmanat varandra med en "spela ett spel du aldrig hade tänkt spela"-kväll (med fruktsallad) för mixa upp lite i spelvardagen.
 
 ## Spel som det snackas om
 
