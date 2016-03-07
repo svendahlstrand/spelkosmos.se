@@ -6,5 +6,9 @@ cd "$(dirname "$0")/.."
 
 script/update
 
-jekyll server "$1"
-open "http://localhost:4000"
+expect -c "
+  spawn jekyll server \"$1\"
+  expect \"Server running...\"
+  exec open \"http://localhost:4000\"
+  interact
+"
