@@ -1,4 +1,4 @@
-require 'html/proofer'
+require 'html-proofer'
 require 'colored'
 require 'feed_validator'
 require_relative '_lib/vnu'
@@ -24,11 +24,13 @@ end
 
 def validate_html(should_run_fast)
   checks_to_ignore = should_run_fast ? %w(VnuCheck LinkCheck) : %w(HtmlCheck)
-  HTML::Proofer.new('./_site', empty_alt_ignore: true,
-                               check_html: true,
-                               only_4xx: true,
-                               checks_to_ignore: checks_to_ignore
-                   ).run
+
+  HTMLProofer.check_directory('./_site',
+                              empty_alt_ignore: true,
+                              check_html: true,
+                              only_4xx: true,
+                              checks_to_ignore: checks_to_ignore
+                             ).run
 end
 
 def validate_rss

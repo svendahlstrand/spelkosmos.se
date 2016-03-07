@@ -1,7 +1,7 @@
 require 'vnu'
 require 'json'
 
-class VnuCheck < ::HTML::Proofer::CheckRunner
+class VnuCheck < ::HTMLProofer::Runner
   def run
     error = Vnu.validate(@html, errors_only: true, format: 'json')
 
