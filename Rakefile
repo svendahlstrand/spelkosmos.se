@@ -42,6 +42,10 @@ def validate_rss
   feed = W3C::FeedValidator.new
   feed.validate_data(contents)
 
+  feed.warnings.delete_if do |warning|
+    %w{ContainsHTML MissingAtomSelfLink}.include? warning[:type]
+  end
+
   puts "\nErrors\n".red.bold if feed.errors.any?
 
   feed.errors.each do |error|
