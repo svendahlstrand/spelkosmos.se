@@ -1,35 +1,18 @@
 # Spelkosmos
 
-## Första gången?
-
-Om det är första gången du jobbar med webbplatsen, eller om du sitter vid en ny dator, behöver du sätta upp en arbetsmiljö först. Läs mer under [Kom igång på OS X][1]. Ibland måste du hoppa in i terminalen för att utföra kommandon. Det låter läskigt men är inte speciellt svårt. Läs [Introduction to the Mac OS X Command Line][2] för att komma igång snabbt.
+> Sitter du vid en ny dator? Då behöver du sätta upp en arbetsmiljö. Läs hur här: [Kom igång på OS X][1].
 
 ## Förhandsgranska webbplatsen lokalt.
 
-Öppna terminalen, ställ dig i katalogen och kör `jekyll serve`.
+När du vill se hur webbplatsen ser ut kör du `script/server`. Efter en kort stund bör din webbläsare automatiskt öppna adressen <http://localhost:4000>.
 
-```sh
-cd Dropbox/spelkosmos
-jekyll serve --drafts
-```
-
-Sen besöker du webbplatsen på adressen <http://localhost:4000>. För att stänga servern trycker du `ctrl` + `c` i terminalfönstret.
+Om du vill förhandsgranska utkast (de avsnitt som ligger i mappen `_drafts`) kör du `script/server-drafts`.
 
 ## Testa webbplatsen
 
-Det finns ett gäng automatiska tester du kan köra, för att se så webbplatsen mår bra. När du kör testerna kan du upptäcka trasiga länkar och bilder samt fel i HTML-filer och RSS:en.
+Det finns ett gäng automatiska tester du kan köra, för att se om webbplatsen mår bra. När du kör testerna kan du upptäcka trasiga länkar och bilder samt fel i HTML-filer och RSS:en.
 
-För att testa webbplatsen ställder du dig i projektkatalogen och kör:
-
-```sh
-rake test
-```
-
-Du kan även välja att inkludera utkast (avsnitt i mappen `_drafts`):
-
-```sh
-rake test[drafts]
-```
+För att testa webbplatsen kör du `script/test`. Du kan även välja att inkludera utkast (avsnitt i mappen `_drafts`) med `script/test-drafts`.
 
 ## Kom igång på OS X
 
