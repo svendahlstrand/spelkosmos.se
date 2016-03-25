@@ -17,7 +17,7 @@ task default: [:test]
 
 def build_website(should_include_drafts)
   cmd = 'bundle exec jekyll clean && bundle exec jekyll build'
-  cmd += ' --drafts' if should_include_drafts
+  cmd += ' --drafts --unpublished --future' if should_include_drafts
 
   sh cmd
 end
