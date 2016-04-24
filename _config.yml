@@ -1,8 +1,10 @@
 permalink: /:title/
 exclude:
   - CNAME
+  - COPYRIGHT
   - Gemfile
   - Gemfile.lock
+  - LICENSE.md
   - Rakefile
   - README.md
   - script
