@@ -2,6 +2,7 @@ require 'html-proofer'
 require 'colored'
 require 'feed_validator'
 require_relative '_lib/vnu'
+require_relative '_lib/podcast_review'
 
 task :test do |_, args|
   should_run_fast = args.extras.include?('fast')
@@ -14,6 +15,11 @@ task :test do |_, args|
 end
 
 task default: [:test]
+
+task :update_reviews do |_, args|
+  reviews = PodcastReview.all_from_itunes(1074034373)
+  File.write('_data/reviews.json', reviews.to_json)
+end
 
 def build_website(should_include_drafts)
   cmd = 'bundle exec jekyll clean && bundle exec jekyll build'
