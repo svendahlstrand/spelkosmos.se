@@ -18,7 +18,7 @@ task default: [:test]
 
 task :update_reviews do |_, args|
   reviews = PodcastReview.all_from_itunes(1074034373)
-  File.write('_data/reviews.json', reviews.to_json)
+  File.write('_data/reviews.json', JSON.pretty_generate(reviews))
 end
 
 def build_website(should_include_drafts)
