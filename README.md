@@ -14,6 +14,12 @@ Det finns ett gäng automatiska tester du kan köra, för att se om webbplatsen 
 
 För att testa webbplatsen kör du `script/test`. Du kan även välja att inkludera utkast (avsnitt i mappen `_drafts`) med `script/test-drafts`.
 
+## iTunes-recensioner
+
+Filen `_data/reviews.json` innehåller recensioner av podcasten från iTunes. För att få in de senaste recensionerna i filen kör du skriptet `script/update-reviews`.
+
+I Jekyll-mallarna kommer du åt recensionerna via variablen `site.data.reviews`.
+
 ## Kom igång på OS X
 
 Du behöver installera `Ruby`, `bundler` och `git` (eller `GitHub Desktop`). Det finns lite olika tillvägagångssätt och här beskriver jag ett.
