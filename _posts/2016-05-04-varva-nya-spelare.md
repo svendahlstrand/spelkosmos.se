@@ -1,12 +1,12 @@
 ---
 episode: 9
 title: Värva nya spelare
-duration: "33:00"
-length: 37535161
+duration: "32:47"
+length: 31485487
 published: false
 ---
 
-Sanna tycker det är lite jobbigt att mingla och önskar att man alltid kunde ställa frågan "vad spelar du just nu?" Men då behöver vi så klart värva fler människor till spelens underbara värld.
+Sanna tycker det är lite jobbigt att mingla och önskar att man alltid kunde ställa frågan "Vad spelar du just nu?" Men då behöver vi så klart värva fler människor till spelens underbara värld.
 
 Hur gör man det? Det tar vi reda på i det nionde avsnittet av Spelkosmos. För ju fler vi är som spelar, desto roligare blir det!
 
@@ -21,7 +21,7 @@ Det finns en hel del undersökningar som försöker svara på hur många vi är 
 
 * [Broken Sword 1: The Shadow of the Templars][1] - Hyllat äventyrsspel från 1996 som numera finns på iPad.
 * [The Room][2] - Stämningsfullt och beroendeframkallande pusselspel.
-* [Beyond: Two Souls][3] - Interaktivt Science fiction-drama med Ellen Page och Willem Dafoe.s
+* [Beyond: Two Souls][3] - Interaktivt Science fiction-drama med Ellen Page och Willem Dafoe.
 * [Uncharted 2: Among Thieves][4] - Mattinéäventyr i sann Indiana Jones-anda.
 
 [1]: http://revolution.co.uk/games/the-shadow-of-the-templars
