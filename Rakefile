@@ -1,8 +1,8 @@
 require 'html-proofer'
 require 'colored'
 require 'feed_validator'
-require_relative '_lib/vnu'
-require_relative '_lib/podcast_review'
+require_relative 'lib/vnu'
+require_relative 'lib/podcast_review'
 
 task :test do |_, args|
   should_run_fast = args.extras.include?('fast')

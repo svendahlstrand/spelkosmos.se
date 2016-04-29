@@ -4,6 +4,7 @@ exclude:
   - COPYRIGHT
   - Gemfile
   - Gemfile.lock
+  - lib
   - LICENSE.md
   - Rakefile
   - README.md
