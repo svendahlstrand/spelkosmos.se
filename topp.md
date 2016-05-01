@@ -1,6 +1,7 @@
 ---
 title: Topplistan iTunes
 permalink: /topp/
+robots: noindex
 ---
 
 # Topplistan iTunes
