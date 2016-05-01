@@ -8,7 +8,7 @@ smart_banner: true
 
 <img src="/images/sannasven.jpg" alt="Sanna och Sven">
 
-Välkommen till en podd om att fly verkligheten för en stund. Om att uppleva nya spännande världar i vårt stora spelkosmos. Både ensam, men framförallt tillsammans.
+Välkommen till en podcast om att fly verkligheten för en stund. Om att uppleva nya spännande världar i vårt stora spelkosmos. Både ensam, men framförallt tillsammans.
 
 Häng med och upptäck fantastiska berättelser, klura kring spelande och lär dig nya intressanta grejer. Och allra främst, ha en riktigt mysig stund tillsammans med oss!
 
