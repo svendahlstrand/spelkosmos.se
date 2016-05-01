@@ -5,7 +5,7 @@ permalink: /topp/
 
 # Topplistan iTunes
 
-<p><span id="podcast-name">Spelkosmos</span> ligger på plats <span id="placement"></span> i kategorin Spel & hobbies.</p>
+<p><span id="podcast-name">Spelkosmos</span> ligger på plats <span id="placement"></span> i kategorin Spel och hobby.</p>
 
 <script>
   var podcastName = document.getElementById('podcast-name').textContent;
