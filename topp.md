@@ -12,7 +12,7 @@ permalink: /topp/
 
   var processTopPodcasts = function (toplist) {
     toplist.feed.entry.forEach(function (entry, index, entries) {
-      if (entry['im:name'].label == podcastName) {
+      if (entry['im:name'].label.toLowerCase() == podcastName.toLowerCase()) {
         document.getElementById('placement').textContent = index + 1;
       }
     });
