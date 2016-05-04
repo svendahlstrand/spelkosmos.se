@@ -3,16 +3,15 @@ episode: 9
 title: Värva nya spelare
 duration: "32:47"
 length: 31485487
-published: false
 ---
 
-Sanna tycker det är lite jobbigt att mingla och önskar att man alltid kunde ställa frågan "Vad spelar du just nu?" Men då behöver vi så klart värva fler människor till spelens underbara värld.
+Sanna tycker att det är lite jobbigt att mingla och önskar att man alltid kunde ställa frågan "Vad spelar du just nu?". Men då behöver vi så klart värva fler människor till spelens underbara värld.
 
-Hur gör man det? Det tar vi reda på i det nionde avsnittet av Spelkosmos. För ju fler vi är som spelar, desto roligare blir det!
+Hur man gör det tar vi reda på i det nionde avsnittet av Spelkosmos. För ju fler vi är som spelar, desto roligare blir det!
 
 ## Hur många är vi som spelar egentligen?
 
-Det finns en hel del undersökningar som försöker svara på hur många vi är som spelar. Som vanligt får man ta all data och statistik av det här slaget med en nypa salt. Sven har kikat på två rapporter som beskriver läget i Sverige:
+Det finns en hel del undersökningar som försöker svara på hur många vi är som spelar. Som vanligt får man ta all data och statistik med en nypa salt. Sven har kikat på två rapporter som beskriver läget i Sverige:
 
 * [Videogames in Europe: Consumer Study, Sweden, November 2012][5]
 * [Medieutveckling 2015][6]
