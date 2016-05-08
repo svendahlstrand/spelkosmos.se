@@ -3,7 +3,7 @@
 
 # Spelkosmos
 
-Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelvärldar tillsammans med [Sanna][4] och [Sven][5]. Vi tipsar, klurar och grottar ner oss i magiska spelberättelser varannan onsdag. [Läs mer om oss][1].
+Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelvärldar tillsammans med [Sanna][4] och [Sven][5]. Vi tipsar, klurar och grottar ner oss i fantastiska spelberättelser varannan onsdag. [Läs mer om oss][1].
 
 <p class="highlight" markdown="1">Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.</p>
 
