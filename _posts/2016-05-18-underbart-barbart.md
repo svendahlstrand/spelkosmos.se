@@ -1,8 +1,8 @@
 ---
 episode: 10
 title: Underbart bärbart
-duration: "35:00"
-length: 31485487
+duration: "32:39"
+length: 31484365
 draft: true
 ---
 
