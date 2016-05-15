@@ -17,6 +17,13 @@ I avsnittet nämner Sven artikeln [Nintendo NX: everything we know so far][1] so
 * [Machinarium][4] -
 * [Luigi's Mansion: Dark Moon][5] - Mysig, rolig spökjakt à la Ghostbusters med Marios brorsa.
 
+## Underbar musik i bakgrunden
+
+* Vaggvisa av Daniel Olsen
+* Ocarina of Time Title Theme av Koji Kondo
+* The Black Cap Brotherhood Theme - av Tomáš Dvořák
+* Dark Moon Main Theme - Chad York, Darren Radtke, Mike Peacock
+
 [1]: http://www.theverge.com/2016/4/27/11516888/nintendo-nx-new-console-news-date-games
 [2]: http://simogo.com/work/year-walk-ios
 [3]: http://zelda.com/#threeds
