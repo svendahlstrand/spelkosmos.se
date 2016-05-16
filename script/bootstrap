@@ -5,6 +5,11 @@ set -e
 cd "$(dirname "$0")/.."
 
 echo "==> Installing gem dependencies..."
+
+gem list bundler -i >/dev/null 2>&1 || {
+  gem install bundler
+}
+
 bundle check >/dev/null 2>&1 || {
   bundle install --quiet
 }
