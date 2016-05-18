@@ -3,10 +3,9 @@ episode: 10
 title: Underbart bärbart
 duration: "32:39"
 length: 31484365
-draft: true
 ---
 
-Det är inte alltid vi kan (eller vill) sitta framför en stor tv-skärm eller vid den stationära datorn. Ibland är vi på språng och kan ta till bärbara spel. Men hur är det egentligen nu för tiden, finns det plats för dedikerade bärbara spelmaskiner bland dagens smarta telefoner och surfplattor? Vi funderar och passar i samma veva på att lyfta våra egna favoriter när det gäller bärbart.
+Det är inte alltid vi kan (eller vill) sitta framför en stor skärm. När vi är på språng kan vi istället ta till bärbara spel. Men hur är det egentligen nu för tiden, finns det plats för dedikerade bärbara spelmaskiner bland dagens smarta telefoner och surfplattor? Vi funderar och passar i samma veva på att lyfta våra egna favoriter när det gäller bärbart.
 
 I avsnittet nämner Sven artikeln [Nintendo NX: everything we know so far][1] som spekulerar kring Nintendos nästa konsol - NX. Hur kommer den påverka Nintendos bärbarhet? Framtiden är oviss.
 
