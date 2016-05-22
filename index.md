@@ -7,6 +7,12 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 
 <p class="highlight" markdown="1">Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.</p>
 
+##Nu finns en hela första säsongen!
+
+Nu finns en hel säsong med tio göttiga avsnitt. Lyssna, mys och bli spelsugen hela sommaren. Vi tar lite sommarlov för att ladda upp med nya spännande ämnen och spelupplevelser, och är tillbaka igen i mitten av augusti med nya upptåg. Tills dess håller vi dig uppdaterad med ditten och datten på [Facebook][6] och [Instagram][7].
+
+Hör gärna av dig med feedback, smått som stort, på <hej@spelkosmos.se>.
+
 ## Alla episoder
 
 <table id="all-episodes">
@@ -51,3 +57,5 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 [3]: http://spelkosmos.se/itunes.rss
 [4]: http://sannalund.se/
 [5]: https://svendahlstrand.se/
+[6]: https://www.facebook.com/spelkosmos/
+[7]: https://www.instagram.com/spelkosmos/
