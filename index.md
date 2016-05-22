@@ -7,7 +7,7 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 
 <p class="highlight" markdown="1">Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.</p>
 
-##Nu finns en hela första säsongen!
+## Nu finns en hela första säsongen!
 
 Nu finns en hel säsong med tio göttiga avsnitt. Lyssna, mys och bli spelsugen hela sommaren. Vi tar lite sommarlov för att ladda upp med nya spännande ämnen och spelupplevelser, och är tillbaka igen i mitten av augusti med nya upptåg. Tills dess håller vi dig uppdaterad med ditten och datten på [Facebook][6] och [Instagram][7].
 
