@@ -1,4 +1,5 @@
 ---
+excerpt: Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelvärldar tillsammans med Sanna och Sven. Vi tipsar, klurar och grottar ner oss i fantastiska spelberättelser varannan onsdag.
 ---
 
 # Spelkosmos
