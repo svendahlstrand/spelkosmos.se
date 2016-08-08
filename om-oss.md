@@ -2,6 +2,7 @@
 title: Om oss
 permalink: /om-oss/
 smart_banner: true
+excerpt: Välkommen till en podcast om att fly verkligheten för en stund. Om att uppleva nya spännande världar i vårt stora spelkosmos. Både ensam, men framförallt tillsammans.
 ---
 
 # Om oss
