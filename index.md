@@ -8,11 +8,9 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 
 <p class="highlight" markdown="1">Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.</p>
 
-## Nu finns hela första säsongen!
+## Nästa avsnitt släpps 17 augusti
 
-Nu finns en hel säsong med tio göttiga avsnitt. Lyssna, mys och bli spelsugen hela sommaren. Vi tar lite sommarlov för att ladda upp med nya spännande ämnen och spelupplevelser, och är tillbaka igen i mitten av augusti med nya upptåg. Tills dess håller vi dig uppdaterad med ditten och datten på [Facebook][6] och [Instagram][7].
-
-Hör gärna av dig med feedback, smått som stort, på <hej@spelkosmos.se>.
+Nu är det dags att ladda din podcastmaskin för på onsdag släpps nästa avsnitt av Spelkosmos!
 
 ## Alla episoder
 
