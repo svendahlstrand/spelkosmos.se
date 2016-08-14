@@ -1,8 +1,8 @@
 ---
 episode: 11
 title: Mot den virtuella verkligheten
-duration: "32:39"
-length: 31484365
+duration: "35:17"
+length: 33900201
 published: false
 ---
 
@@ -13,6 +13,7 @@ Idag, drygt 20 år senare, finns det nya spännande leksaker som låter oss bes�
 ## Spel att kliva in i
 
 * [The Lab][1] - Utforska denna samling med små spel och upplevelser.
+* [The Gallery: Call of the Starseed][7] - Episodbaserat äventyrsspel.
 * [Portal Stories: VR][2] - Kliv genom portaler i detta kluriga pusselspel.
 * [theBlu][3] - Ta ett djupt andetag och upplev världen under ytan.
 * [Home Improvisation][4] - Svär över möbler som knappt går att skruva ihop.
@@ -25,3 +26,4 @@ Idag, drygt 20 år senare, finns det nya spännande leksaker som låter oss bes�
 [4]: http://www.homeimprovisation.com/
 [5]: http://www.keeptalkinggame.com/
 [6]: http://obduction.com/
+[7]: http://www.thegallerygame.com/
