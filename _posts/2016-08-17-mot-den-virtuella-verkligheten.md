@@ -3,7 +3,6 @@ episode: 11
 title: Mot den virtuella verkligheten
 duration: "35:17"
 length: 33900201
-published: false
 ---
 
 När Sven var liten hade han en häftig leksak som kallades för View-Master. Han kunde titta i den som en kikare och se bilder i 3D. Det var nästan som att kliva in i en annan värld.
