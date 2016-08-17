@@ -8,10 +8,6 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 
 <p class="highlight" markdown="1">Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.</p>
 
-## Nästa avsnitt släpps 17 augusti
-
-Nu är det dags att ladda din podcastmaskin för på onsdag släpps nästa avsnitt av Spelkosmos!
-
 ## Alla episoder
 
 <table id="all-episodes">
