@@ -1,8 +1,8 @@
 ---
 episode: 12
 title: Spelen som reser i tiden
-duration: "35:17"
-length: 33900201
+duration: "28:09"
+length: 27023300
 published: false
 ---
 
