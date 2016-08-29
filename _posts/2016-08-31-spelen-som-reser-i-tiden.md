@@ -16,6 +16,12 @@ Tidsresor är rackarns nervkittlande för fantasin, och vi frågar oss varför d
 * [Day of the Tentacle][4] - Knasigt kult-äventyr med toalett-tidsmaskiner.
 * [The Legend of Zelda: Majora's Mask][5] - Återupplev tre avgörande dagar om och om igen...
 
+## Musik i bakgrunden
+
+* Downstream av Shira Kammen
+* Day of the Tentacle Soundtrack av Bajakian, McConnell och Land
+* Clock Town Day 1 av Koji Kondo
+
 [1]: http://www.gutenberg.org/ebooks/35
 [2]: https://en.wikipedia.org/wiki/List_of_games_containing_time_travel
 [3]: http://braid-game.com/
