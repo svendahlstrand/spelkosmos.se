@@ -6,7 +6,7 @@ length: 33900201
 published: false
 ---
 
-Tidsresor må vara nervkittlande för fantasin, men det finns ändå inte så många spel på temat. Vad kan det bero på? Vi snackar snurriga farfars-paradoxer och andra svårigheter, som ställer till det för både spelutvecklare och oss som spelar. Och varvar självklart med några tidsrese-spel som verkligen har lyckats!
+Tidsresor är rackarns nervkittlande för fantasin, och vi frågar oss varför det inte finns fler spel på temat? Det snackas snurriga farfars-paradoxer och andra svårigheter, som ställer till det för både spelutvecklare och oss som spelar. Sen varvar vi självklart med några tidsrese-spel som verkligen har lyckats!
 
 ## Tidsrese-spel och annat göttigt
 
@@ -14,7 +14,7 @@ Tidsresor må vara nervkittlande för fantasin, men det finns ändå inte så m�
 * [List of games containing time travel][2] - Wikipedias sammanställning av spel med tidsresor.
 * [Braid][3] - Krävande hjärngympa som ställer plattformsspelandet på ända.
 * [Day of the Tentacle][4] - Knasigt kult-äventyr med toalett-tidsmaskiner.
-* [The Legend of Zelda: Majora's Mask][5] - Återupplev tre ödestigna dagar om och om igen...
+* [The Legend of Zelda: Majora's Mask][5] - Återupplev tre avgörande dagar om och om igen...
 
 [1]: http://www.gutenberg.org/ebooks/35
 [2]: https://en.wikipedia.org/wiki/List_of_games_containing_time_travel
