@@ -49,7 +49,7 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 
 [1]: /om-oss/
 [2]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
-[3]: http://spelkosmos.se/itunes.rss
+[3]: /itunes.rss
 [4]: http://sannalund.se/
 [5]: https://svendahlstrand.se/
 [6]: https://www.facebook.com/spelkosmos/

@@ -25,5 +25,5 @@ Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 [2]: https://svendahlstrand.se
 [3]: https://www.fiverr.com/harveydentmd
 [4]: https://soundcloud.com/chetreo
-[5]: http://spelkosmos.se/itunes.rss
+[5]: /itunes.rss
 [6]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
