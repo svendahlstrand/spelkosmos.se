@@ -3,7 +3,6 @@ episode: 12
 title: Spelen som reser i tiden
 duration: "28:09"
 length: 27023300
-published: false
 ---
 
 Tidsresor är rackarns nervkittlande för fantasin, och vi frågar oss varför det inte finns fler spel på temat? Det snackas snurriga farfars-paradoxer och andra svårigheter, som ställer till det för både spelutvecklare och oss som spelar. Sen varvar vi självklart med några tidsrese-spel som verkligen har lyckats!
