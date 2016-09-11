@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'html-proofer'
 require 'colored'
 require 'feed_validator'
@@ -16,7 +17,7 @@ end
 
 task default: [:test]
 
-task :update_reviews do |_, args|
+task :update_reviews do
   reviews = PodcastReview.all_from_itunes(1074034373)
   File.write('_data/reviews.json', JSON.pretty_generate(reviews))
 end
@@ -35,6 +36,7 @@ def validate_html(should_run_fast)
                               empty_alt_ignore: true,
                               check_html: true,
                               only_4xx: true,
+                              http_status_ignore: [403],
                               checks_to_ignore: checks_to_ignore
                              ).run
 end
