@@ -14,7 +14,7 @@ Ps. Nämnda Mia Consalvo ger fyra anledningar till att vi fuskar i spel i artike
 
 * [GTA][3] - Fartfylld action som Sven kryddade med koder.
 * [The Sims][4] - Livssimulator som Sanna kryddade med koder.
-* [Super Mario Bros][5] - Klassiskt plattformsspel där du förr kunde ta genvägar.
+* [Super Mario Bros][5] - Klassiskt plattformsspel där du kan ta genvägar ibland.
 * [Unreal Tournament][6] - Populärt arena-FPS där Sven campade.
 * [Professor Layton vs. Phoenix Wright: Ace Attorney][7] - Två mixade spelvärldar där Sven tristessfuskade.
 * [Inside][8] - Dystopiskt klur-spel där Sanna tog hjälp av en kompis.
