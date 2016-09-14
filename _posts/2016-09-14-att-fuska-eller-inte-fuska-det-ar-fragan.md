@@ -3,7 +3,6 @@ episode: 13
 title: Att fuska eller inte fuska, det är frågan.
 duration: "42:26"
 length: 40750106
-published: false
 ---
 
 Ordet fuska har en ganska negativ klang. Det är fult och syndigt. Något du kanske inte direkt stoltserar med att du gör. Men är det verkligen bara av ondo? Idag ska vi vrida och vända på fusk och att fuska i spel!
@@ -14,7 +13,7 @@ Ps. Nämnda Mia Consalvo ger fyra anledningar till att vi fuskar i spel i artike
 
 * [GTA][3] - Fartfylld action som Sven kryddade med koder.
 * [The Sims][4] - Livssimulator som Sanna kryddade med koder.
-* [Super Mario Bros][5] - Klassiskt plattformsspel där du kan ta genvägar ibland.
+* [Super Mario Bros][5] - Klassiskt plattformsspel där du kan ta genvägar.
 * [Unreal Tournament][6] - Populärt arena-FPS där Sven campade.
 * [Professor Layton vs. Phoenix Wright: Ace Attorney][7] - Två mixade spelvärldar där Sven tristessfuskade.
 * [Inside][8] - Dystopiskt klur-spel där Sanna tog hjälp av en kompis.
