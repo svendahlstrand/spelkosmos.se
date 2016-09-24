@@ -9,8 +9,8 @@
     <meta property="og:image" content="http://spelkosmos.se/images/facebooked-image.png" />
     <meta property="og:description" content="{{ page.excerpt | strip_html | xml_escape | strip }}" />
 
-    {% if page.robots %}
-      <meta name="robots" content="{{ page.robots }}" />
+    {% if page.sitemap == false %}
+      <meta name="robots" content="noindex" />
     {% endif %}
 
     {% if page.smart_banner %}
