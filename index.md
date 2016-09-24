@@ -18,7 +18,7 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
         <a href="{{ post.url }}">{{ post.title }}</a>
       </td>
       <td>
-        {% include pretty-duration.liquid duration=post.duration %}&nbsp;<time datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
+        {% include pretty-duration.liquid duration=post.duration %} <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
       </td>
     </tr>
   {% endfor %}

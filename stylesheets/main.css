@@ -80,11 +80,13 @@ td {
 }
 
 td:last-child {
+  text-align: right;
   width: 33%;
 }
 
 td time {
   display: block;
+  line-height: 2;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -109,10 +111,6 @@ time, small {
   padding: 0.3em;
 }
 
-.extra {
-  display: none;
-}
-
 @media (min-width: 35em) {
   header > a {
     background-image: url("/images/background.png");
@@ -120,23 +118,10 @@ time, small {
     background-position: center;
     background-size: contain;
   }
-
-  td:last-child {
-    width: 25%;
-  }
 }
 
 @media (min-width: 42em) {
   td:last-child {
-    width: 51%;
-  }
-
-  td time {
-    float: right;
-    line-height: 2;
-  }
-
-  .extra {
-    display: initial;
+    width: 25%;
   }
 }
