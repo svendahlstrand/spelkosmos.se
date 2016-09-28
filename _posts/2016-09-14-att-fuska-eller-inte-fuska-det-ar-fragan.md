@@ -1,6 +1,6 @@
 ---
 episode: 13
-title: Att fuska eller inte fuska, det är frågan.
+title: Att fuska eller inte fuska, det är frågan
 duration: "42:26"
 length: 40750106
 ---
