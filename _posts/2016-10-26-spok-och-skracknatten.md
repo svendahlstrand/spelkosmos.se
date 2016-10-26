@@ -3,7 +3,6 @@ episode: 16
 title: Spök- och skräcknatten
 duration: "27:36"
 length: 26431577
-published: false
 ---
 
 I det här avsnittet omfamnar vi spelen som får oss att skrika högt, gömma oss under täcket och skita knäck. Vi funderar över vad som gör oss rädda och bjussar så klart på några läskiga favoritspel.
@@ -12,12 +11,12 @@ Men vad är det som låter? För visst hör du det också? Ett skrapande ljud...
 
 ## 4 läskiga speltips
 
-* [Until Dawn][1] - Tänk dig en Scream-film i spelform: tonårsskräckis.
+* [Until Dawn][1] - Tänk dig en Scream-film i spelform.
 * [Alan Wake][2] - Välskrivet och vackert mysterium i sann Stephen King-anda.
 * [Goetia][3] - Mörkt och spöklikt peka-klicka-äventyr.
 * [Luigi's Mansion: Dark Moon][4] - En mysig spökhistoria för den lättskrämde.
 
-När du spelat klart och vill ha mer: ladda din podcastmaskin med [The NoSleep Podcast][5] eller [Creepypodden][6]. Perfekt sällskap i sängen innan du ska sova, om du vill drömma mardrömmar.
+När du spelat klart och vill ha mer: ladda din podcastmaskin med [The NoSleep Podcast][5] eller [Creepypodden][6]. Perfekt sällskap i sängen innan du ska sova. Om du vill drömma mardrömmar.
 
 ## Musiken du hör i bakgrunden
 
