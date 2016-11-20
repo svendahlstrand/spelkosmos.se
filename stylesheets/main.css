@@ -116,6 +116,11 @@ audio {
   margin-right: 0.5em;
 }
 
+video {
+  width: 100%;
+  height: 56.25%;
+}
+
 table {
   width: 100%;
 }

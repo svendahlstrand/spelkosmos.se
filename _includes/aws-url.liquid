@@ -1,1 +1,1 @@
-http://s3.eu-central-1.amazonaws.com/episoder.spelkosmos.se/spelkosmos-{{ include.episode }}.mp3
+{% if include.post.video %}{% assign extension = 'mp4' %}{% else %}{% assign extension = 'mp3' %}{% endif %}http://s3.eu-central-1.amazonaws.com/episoder.spelkosmos.se/spelkosmos-{{ include.post.episode }}.{{ extension }}
