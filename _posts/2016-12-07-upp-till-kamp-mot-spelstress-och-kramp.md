@@ -2,7 +2,7 @@
 episode: 18
 title: Upp till kamp mot spelstress och spelkramp
 duration: "27:14"
-length: 29822204
+length: 26076579
 published: false
 ---
 
