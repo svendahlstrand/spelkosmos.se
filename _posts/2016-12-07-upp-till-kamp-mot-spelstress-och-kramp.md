@@ -3,7 +3,6 @@ episode: 18
 title: Upp till kamp mot spelstress och spelkramp
 duration: "27:14"
 length: 26076579
-published: false
 ---
 
 Det släpps en massa nya spel varje dag. Har du blivit förlamad av det enorma utbudet nån gång? Så pass att det kanske inte blir något spelat alls? Det har vi!
