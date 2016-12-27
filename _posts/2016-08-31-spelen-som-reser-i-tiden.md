@@ -21,7 +21,7 @@ Tidsresor är rackarns nervkittlande för fantasin, och vi frågar oss varför d
 * Day of the Tentacle Soundtrack av Bajakian, McConnell och Land
 * Clock Town Day 1 av Koji Kondo
 
-[1]: http://www.gutenberg.org/ebooks/35
+[1]: http://www.feedbooks.com/book/32/the-time-machine
 [2]: https://en.wikipedia.org/wiki/List_of_games_containing_time_travel
 [3]: http://braid-game.com/
 [4]: http://dott.doublefine.com/
