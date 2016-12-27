@@ -30,10 +30,11 @@ Börja med att installera [Homebrew][3]. Resten gör du i terminalen, börja med
 brew install git rbenv
 ```
 
-Följ sedan instruktionerna för `rbenv`:
+Följ sedan instruktionerna för `rbenv` och installera Ruby:
 
 ```sh
 rbenv init
+rbenv install 2.3.3
 ```
 
 Klona detta repository och ställ dig i katalogen:
@@ -43,11 +44,6 @@ git clone git@github.com:spelkosmos/spelkosmos.github.io.git
 cd spelkosmos.github.io
 ```
 
-Installera Ruby:
-
-```sh
-rbenv install
-```
 Installera och kör `bundler`:
 
 ```sh
