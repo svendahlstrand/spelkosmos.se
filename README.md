@@ -1,6 +1,6 @@
 # Spelkosmos
 
-> Sitter du vid en ny dator? Då behöver du sätta upp en arbetsmiljö. Läs hur här: [Kom igång på OS X][1].
+> Sitter du vid en ny dator? Då behöver du sätta upp en arbetsmiljö. Läs hur här: [Kom igång på macOS][1].
 
 ## Förhandsgranska webbplatsen lokalt.
 
@@ -20,7 +20,7 @@ Filen `_data/reviews.json` innehåller recensioner av podcasten från iTunes. F�
 
 I Jekyll-mallarna kommer du åt recensionerna via variablen `site.data.reviews`.
 
-## Kom igång på OS X
+## Kom igång på macOS
 
 Du behöver installera `Ruby`, `bundler` och `git` (eller `GitHub Desktop`). Det finns lite olika tillvägagångssätt och här beskriver jag ett.
 
@@ -57,6 +57,6 @@ bundle install
 
 Nu är du klar, bra jobbat! Kör `rake test` för att se så allt fungerar. Sen är det bara att börja jobba.
 
-[1]: #kom-igång-på-os-x
+[1]: #kom-igång-på-macos
 [2]: http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 [3]: http://brew.sh
