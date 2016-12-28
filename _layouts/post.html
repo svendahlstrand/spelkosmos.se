@@ -5,12 +5,12 @@ layout: default
 <article>
   <h1>{% include page-title.liquid %}</h1>
   {% if page.video %}
-    <video controls="controls" preload="none" src="{% include aws-url.liquid post=page %}"></video>
+    <video controls="controls" preload="none" src="https://{% include aws-url.liquid post=page %}"></video>
   {% else %}
-    <audio controls="controls" preload="none" src="{% include aws-url.liquid post=page %}"></audio>
+    <audio controls="controls" preload="none" src="https://{% include aws-url.liquid post=page %}"></audio>
   {% endif %}
 
-  <a href="{% include aws-url.liquid post=page %}" download>Ladda&nbsp;ner</a>&nbsp;<small>({{ page.length | divided_by: 1000000.0 | round: 1 | replace: '.', ',' }}&nbsp;MB)</small>
+  <a href="https://{% include aws-url.liquid post=page %}" download>Ladda&nbsp;ner</a>&nbsp;<small>({{ page.length | divided_by: 1000000.0 | round: 1 | replace: '.', ',' }}&nbsp;MB)</small>
   <p class="highlight">Prenumerera på podden <a href="https://itunes.apple.com/se/podcast/spelkosmos/id1074034373">via Itunes</a>, eller mata in <a href="/itunes.rss">RSS:en</a> i din podcast-app.</p>
   {{ content }}
   <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=page.date %}</time>

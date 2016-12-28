@@ -34,9 +34,9 @@ layout: null
         </itunes:summary>
 
         {% if post.video %}
-          <enclosure type="video/mp4" url="{% include aws-url.liquid post=post %}" length="{{ post.length }}" />
+          <enclosure type="video/mp4" url="http://{% include aws-url.liquid post=post %}" length="{{ post.length }}" />
         {% else %}
-          <enclosure type="audio/mpeg" url="{% include aws-url.liquid post=post %}" length="{{ post.length }}"/>
+          <enclosure type="audio/mpeg" url="http://{% include aws-url.liquid post=post %}" length="{{ post.length }}"/>
         {% endif %}
 
         <guid isPermaLink="false">{{ post.url }}</guid>
