@@ -3,12 +3,13 @@ episode: 22
 title: Allt har en början, men behöver det ett slut?
 duration: "26:09"
 length: 31345610
-published: false
 ---
 
-Snipp snapp snut, så var spelet slut. Eller? Hur viktigt är egentligen slutet i ett spel? Måste man hålla ut eller kan det vara okej att sluta när man är på topp?
+Snipp snapp snut, så var spelet slut. Eller? Hur viktigt är egentligen slutet i ett spel? Måste man hålla ut till sista sekunden eller kan det vara okej att sluta när man är på topp?
 
-I detta avsnitt av Spelkosmos vänder och vrider vi på "the end".
+I detta avsnitt av Spelkosmos vänder och vrider vi på "The End".
+
+## Spelen vi nämner
 
 * [Mole Mania][1] - Dam (och barn) i nöd, inga överaskningar.
 * [Alan Wake][2] - Ett mysterium får oss att vilja spela till slutet.
