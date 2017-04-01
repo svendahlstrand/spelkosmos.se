@@ -51,7 +51,7 @@ Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-
 
 [1]: /om-oss/
 [2]: https://itunes.apple.com/se/podcast/spelkosmos/id1074034373
-[3]: /itunes.rss
+[3]: /alla-episoder.rss
 [4]: http://sannalund.se/
 [5]: https://svendahlstrand.se/
 [6]: https://www.facebook.com/spelkosmos/

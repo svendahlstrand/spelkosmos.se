@@ -1,0 +1,50 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title>Spelkosmos</title>
+    <link>http://spelkosmos.se</link>
+    <language>sv</language>
+    <copyright>Spelkosmos 2016</copyright>
+    <itunes:image href="http://spelkosmos.se/images/spelkosmos-cover-art.png" />
+    <itunes:author>Sanna Lund &amp; Sven Dahlstrand</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:email>hej@spelkosmos.se</itunes:email>
+    </itunes:owner>
+
+    <description>En peppig podcast om tv- och datorspel. Upplev nya och gamla spelvärldar tillsammans med Sanna och Sven. Vi tipsar, klurar och grottar ner oss i fantastiska spelberättelser. Just nu, våren 2017, tar vi en paus från uppdateringarna. På återhörande!</description>
+
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+
+        <itunes:summary>
+          <![CDATA[
+            {{ post.content }}
+          ]]>
+        </itunes:summary>
+
+        {% if post.video %}
+          <enclosure type="video/mp4" url="http://{% include aws-url.liquid post=post %}" length="{{ post.length }}" />
+        {% else %}
+          <enclosure type="audio/mpeg" url="http://{% include aws-url.liquid post=post %}" length="{{ post.length }}"/>
+        {% endif %}
+
+        <guid isPermaLink="false">{{ post.url }}</guid>
+
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
+        <itunes:duration>{{ post.duration }}</itunes:duration>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

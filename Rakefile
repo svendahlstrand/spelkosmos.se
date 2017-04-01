@@ -44,7 +44,7 @@ end
 def validate_rss
   puts "\nValidating RSS feed...".cyan
 
-  file = File.open('./_site/itunes.rss', 'rb')
+  file = File.open('./_site/alla-episoder.rss', 'rb')
   contents = file.read
 
   feed = W3C::FeedValidator.new
