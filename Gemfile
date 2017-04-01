@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '120'
+gem 'github-pages'
 
 group :test do
   gem 'colored'
