@@ -1,6 +1,5 @@
 permalink: /:title/
 exclude:
-  - CNAME
   - COPYRIGHT
   - Gemfile
   - Gemfile.lock
