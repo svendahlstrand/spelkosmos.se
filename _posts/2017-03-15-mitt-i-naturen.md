@@ -9,7 +9,7 @@ Grönt är skönt och mossa är grejen. Vilka är spelen med snygg, knasig och s
 
 ## "Naturliga" spel vi snackar om
 
-* [The Ledgen of Zelda: Breath of the Wild][1] - Ett makalöst vackert Hyrule att förlora sig i.
+* [The Legend of Zelda: Breath of the Wild][1] - Ett makalöst vackert Hyrule att förlora sig i.
 * [Horizon Zero Dawn][2] - Natur och teknologi i en gigantisk öppen värld.
 * [Samorost 3][3] - Grönskande och träiga planeter som gör att vi blir som barn.
 * [Botanicula][4] - Glimrande äventyr i den lilla världen.
