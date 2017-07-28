@@ -8,7 +8,7 @@ Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelv�
 
 Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.
 
-<p class="highlight" markdown="1">Just nu tar vi en paus från uppdateringarna. På återhörande i höst!</p>
+<p class="highlight" markdown="1">Just nu tar vi en paus från uppdateringar. På återhörande i höst!</p>
 
 ## Alla episoder
 
