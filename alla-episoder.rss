@@ -3,7 +3,7 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
     <title>Spelkosmos</title>
@@ -27,11 +27,14 @@ layout: null
       <item>
         <title>{{ post.title }}</title>
 
-        <itunes:summary>
+        <description>{{ post.excerpt | strip_html | strip_newlines }}</description>
+        <itunes:summary>{{ post.excerpt | strip_html | strip_newlines }}</itunes:summary>
+
+        <content:encoded>
           <![CDATA[
             {{ post.content }}
           ]]>
-        </itunes:summary>
+        </content:encoded>
 
         {% if post.video %}
           <enclosure type="video/mp4" url="http://{% include episodes-url.liquid post=post %}" length="{{ post.length }}" />
