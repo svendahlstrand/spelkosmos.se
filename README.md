@@ -24,7 +24,7 @@ I Jekyll-mallarna kommer du åt recensionerna via variablen `site.data.reviews`.
 
 Du behöver installera `Ruby`, `bundler` och `git` (eller `GitHub Desktop`). Det finns lite olika tillvägagångssätt och här beskriver jag ett.
 
-Börja med att installera [Homebrew][3]. Resten gör du i terminalen, börja med att installera `rbenv` och `git`:
+Börja med att installera [Homebrew][3] och [Java JDK][4]. Resten gör du i terminalen, börja med att installera `rbenv` och `git`:
 
 ```sh
 brew install git rbenv
@@ -34,25 +34,18 @@ Följ sedan instruktionerna för `rbenv` och installera Ruby:
 
 ```sh
 rbenv init
-rbenv install 2.3.3
+rbenv install 2.4.1
 ```
 
-Klona detta repository och ställ dig i katalogen:
+Klona detta repository, använd GitHub Desktop eller kör följande:
 
 ```sh
 git clone git@github.com:spelkosmos/spelkosmos.github.io.git
-cd spelkosmos.github.io
 ```
 
-Installera och kör `bundler`:
-
-```sh
-gem install bundler
-bundle install
-```
-
-Nu är du klar, bra jobbat! Kör `rake test` för att se så allt fungerar. Sen är det bara att börja jobba.
+Nu är du klar, bra jobbat! Kör `./script/test` för att se så allt fungerar. Gör `./script/server` för att starta en lokal förhandsgranskning.
 
 [1]: #kom-igång-på-macos
 [2]: http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 [3]: http://brew.sh
+[4]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
