@@ -1,9 +1,8 @@
 ---
 episode: 25
 title: Vad är ett spel?
-duration: "38:00"
-length: 34904084
-published: false
+duration: "35:32"
+length: 51166768
 ---
 
 I det tjugofemte avsnittet tar vi på oss våra tänkarmössor och leker filosofer. Vi försöker bena ut vad ett spel egentligen är. Måste ett spel vara underhållande? Är en vandringssimulator ett spel? Varför heter det datorspel och inte datorlek? Ja, precis som Filosofiska rummet i P1 lovar vi inga svar men öppnar för många nya frågor.
