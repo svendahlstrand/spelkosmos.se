@@ -1,14 +1,15 @@
 ---
 episode: 27
 title: Jag vill spela jag vill dö i Norden
-duration: "31:04"
-length: 37281272
-published: false
+duration: "40:13"
+length: 48258410
 ---
 
-I Sverige finns det eldsjälar som, då och då, tar en paus från att rädda världen eller fly från zombies. De släpper handkontrollen, borstar tänderna och cyklar till jobbet för att skapa nya spelupplevelser, som vi andra kan njuta av.
+I Sverige finns det eldsjälar som, då och då, tar en paus från att rädda världen eller fly från zombies. De släpper handkontrollen, borstar tänderna och cyklar till jobbet för att skapa nya spelupplevelser som vi andra kan njuta av.
 
-Det tjugosjunde avsnittet hyllar vi det svenska spelundret och bjussar på några inhemska speltips.
+I det tjugosjunde avsnittet hyllar vi det svenska spelundret och bjussar på några inhemska speltips.
+
+Ps. [Rapporten från Dataspelsbranschen finner du här][rapport].
 
 ## Blågula spel vi nämner
 
@@ -32,3 +33,4 @@ Det tjugosjunde avsnittet hyllar vi det svenska spelundret och bjussar på någr
 [pan]: http://www.spelkraft.com/pan-pan/
 [fe]: http://www.zoinkgames.com/portfolio-item/fe/
 [simogo]: http://simogo.com
+[rapport]: http://www.dataspelsbranschen.se/media/157331/spelutvecklarindex%202017.pdf
