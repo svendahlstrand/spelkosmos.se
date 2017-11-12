@@ -23,7 +23,7 @@ Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 
 ## Även i P3 Spel
 
-Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i avsnitten:
+Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i följande avsnitt:
 
 * [Ljuden som sätter stämning][7]
 * [Webbläsarspel][8]
@@ -32,6 +32,9 @@ Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i a
 * [Streamingspecial][11]
 * [Spelen som får oss att klicka][12]
 * [Arkadhallshäng][13]
+* [Artificiell Intelligens][14]
+* [Konsten att berätta][15]
+* [Förlåt mig!][16]
 
 [1]: http://sannalund.se
 [2]: https://svendahlstrand.se
@@ -46,3 +49,6 @@ Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i a
 [11]: http://sverigesradio.se/sida/avsnitt/877974?programid=4090
 [12]: http://sverigesradio.se/sida/avsnitt/887952?programid=4090
 [13]: http://sverigesradio.se/sida/avsnitt/900538?programid=4090
+[14]: http://sverigesradio.se/sida/avsnitt/947661?programid=4090
+[15]: http://sverigesradio.se/sida/avsnitt/961034?programid=4090
+[16]: http://sverigesradio.se/sida/avsnitt/967486?programid=4090
