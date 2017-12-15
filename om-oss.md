@@ -21,9 +21,9 @@ Vi älskar att få glada mail. Hör gärna av dig till <hej@spelkosmos.se>.
 
 [Sanna Lund][1] och [Sven Dahlstrand][2]
 
-## Även i P3 Spel
+## Extra tips: krönikor i P3 Spel
 
-Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i följande avsnitt:
+Sanna har även snackat spel i  P3 Spel. Du hittar hennes krönikor i följande avsnitt:
 
 * [Ljuden som sätter stämning][7]
 * [Webbläsarspel][8]
@@ -35,6 +35,8 @@ Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i f
 * [Artificiell Intelligens][14]
 * [Konsten att berätta][15]
 * [Förlåt mig!][16]
+* [Spelens religiösa uppvaknande][17]
+* [Den hatade lootlådan][18]
 
 [1]: http://sannalund.se
 [2]: https://svendahlstrand.se
@@ -52,3 +54,5 @@ Sanna pratar även spel i härliga P3 Spel var tredje vecka. Du hittar henne i f
 [14]: http://sverigesradio.se/sida/avsnitt/947661?programid=4090
 [15]: http://sverigesradio.se/sida/avsnitt/961034?programid=4090
 [16]: http://sverigesradio.se/sida/avsnitt/967486?programid=4090
+[17]: http://sverigesradio.se/sida/avsnitt/977927?programid=4090
+[18]: http://sverigesradio.se/sida/avsnitt/987381?programid=4090
