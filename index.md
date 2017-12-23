@@ -6,7 +6,7 @@ excerpt: Det här är en peppig podcast om tv- och datorspel. Upplev nya och gam
 
 Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelvärldar tillsammans med [Sanna][4] och [Sven][5]. Vi tipsar, klurar och grottar ner oss i bra berättelser och spännande spelfenomen. [Läs mer om oss][1].
 
-Prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app.
+Du kan prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app. Under 2018 är vi dock på obestämd paus, men vi håller dig smått uppdaterad om litet som stort på [Facebook][6] och [Instagram][7]. Vi hörs!
 
 ## Alla episoder
 
