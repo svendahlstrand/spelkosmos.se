@@ -26,5 +26,5 @@ I detta avsnitt av Spelkosmos vänder och vrider vi på "The End".
 [4]: http://braid-game.com
 [5]: http://www.playdead.com/games/limbo/
 [6]: https://www.kickstarter.com/projects/1929139578/memoranda
-[7]: http://www.thelastofus.playstation.com/index.html
+[7]: https://www.thelastofus.playstation.com
 [8]: http://thatgamecompany.com/games/journey/

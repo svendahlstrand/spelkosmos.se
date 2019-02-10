@@ -48,4 +48,4 @@ Varje dag släpps nya spännande spel. Men sen finns ju också alla äldre spel 
 [14]: https://www.playonmac.com/en/
 [15]: https://www.playonlinux.com/sv/
 [16]: http://scummvm.org/
-[17]: http://scummvm.org/games#sky
+[17]: https://wiki.scummvm.org/index.php/Beneath_a_Steel_Sky

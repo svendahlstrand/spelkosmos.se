@@ -33,4 +33,4 @@ Ps. [Rapporten från Dataspelsbranschen finner du här][rapport].
 [pan]: http://www.spelkraft.com/pan-pan/
 [fe]: http://www.zoinkgames.com/portfolio-item/fe/
 [simogo]: http://simogo.com
-[rapport]: http://www.dataspelsbranschen.se/media/157331/spelutvecklarindex%202017.pdf
+[rapport]: https://dataspelsbranschen.se/s/spelutvecklarindex-2017.pdf
