@@ -27,5 +27,5 @@ Det finns en hel del undersökningar som försöker svara på hur många vi är 
 [2]: http://www.fireproofgames.com/games/the-room
 [3]: http://www.quanticdream.com/en/#!/en/category/beyond-two-souls
 [4]: https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves
-[5]: https://www.isfe.eu/sites/isfe.eu/files/attachments/sweden_-_isfe_consumer_study.pdf
+[5]: https://web.archive.org/web/20160807171243/https://www.isfe.eu/sites/isfe.eu/files/attachments/sweden_-_isfe_consumer_study.pdf
 [6]: http://www.radioochtv.se/documents/publikationer/1/medieutveckling-2015-webb.pdf

@@ -27,4 +27,4 @@ Ps. Nämnda Mia Consalvo ger fyra anledningar till att vi fuskar i spel i artike
 [6]: https://www.epicgames.com/unrealtournament/
 [7]: http://laytonvsphoenixwright.nintendo.com/
 [8]: http://www.playdead.com/games/inside/
-[9]: http://playgoetia.com/
+[9]: https://store.steampowered.com/app/421740/Goetia/

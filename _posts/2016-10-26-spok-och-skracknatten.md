@@ -27,7 +27,7 @@ När du spelat klart och vill ha mer: ladda din podcastmaskin med [The NoSleep P
 
 [1]: http://www.supermassivegames.com/games/until-dawn
 [2]: http://www.alanwake.com
-[3]: http://playgoetia.com
+[3]: https://store.steampowered.com/app/421740/Goetia/
 [4]: https://luigismansion.nintendo.com
 [5]: https://www.thenosleeppodcast.com
 [6]: http://sverigesradio.se/sida/avsnitt?programid=4845
