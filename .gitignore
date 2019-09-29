@@ -1,4 +1,5 @@
-_site
-tmp
 .bundle
 .DS_Store
+.jekyll-cache
+_site
+tmp
