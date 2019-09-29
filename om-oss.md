@@ -38,8 +38,8 @@ Sanna har även snackat spel i  P3 Spel. Du hittar hennes krönikor i följande 
 * [Spelens religiösa uppvaknande][17]
 * [Den hatade lootlådan][18]
 
-[1]: http://sannalund.se
-[2]: https://svendahlstrand.se
+[1]: https://sannalund.se
+[2]: https://dahlstrand.net
 [3]: https://www.fiverr.com/harveydentmd
 [4]: https://soundcloud.com/chetreo
 [5]: /alla-episoder.rss
