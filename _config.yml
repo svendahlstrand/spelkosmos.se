@@ -8,7 +8,6 @@ exclude:
   - Rakefile
   - README.md
   - script
-  - vendor
 timezone: Europe/Stockholm
 url: 'https://spelkosmos.se'
 defaults:
