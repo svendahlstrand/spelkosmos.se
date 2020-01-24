@@ -6,7 +6,7 @@ excerpt: Det här är en peppig podcast om tv- och datorspel. Upplev nya och gam
 
 Det här är en peppig podcast om tv- och datorspel. Upplev nya och gamla spelvärldar tillsammans med [Sanna][4] och [Sven][5]. Vi tipsar, klurar och grottar ner oss i bra berättelser och spännande spelfenomen. [Läs mer om oss][1].
 
-Du kan prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din podcast-app. Just nu har podden paus men förhoppningsvis hörs (eller ses) vi snart igen!
+Du kan prenumerera på podden [via Apple Podcasts][2], [Spotify][8], [Google Podcast][9] eller mata in [RSS:en][3] i din podcast-app. Just nu har podden paus men förhoppningsvis hörs (eller ses) vi snart igen!
 
 ## Alla episoder
 
@@ -54,3 +54,5 @@ Du kan prenumerera på podden [via Itunes][2], eller mata in [RSS:en][3] i din p
 [5]: https://dahlstrand.net/
 [6]: https://www.facebook.com/spelkosmos/
 [7]: https://www.instagram.com/spelkosmos/
+[8]: https://open.spotify.com/show/1eWqU6UecnLF0B2CXUKmAl?si=spZZj9uHS-elUtqk5zNpLA
+[9]: https://podcasts.google.com/?feed=aHR0cHM6Ly9zcGVsa29zbW9zLnNlL2FsbGEtZXBpc29kZXIucnNz&ved=0CAAQ4aUDahcKEwjw36jq8pvnAhUAAAAAHQAAAAAQAQ
