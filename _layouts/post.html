@@ -11,7 +11,7 @@ layout: default
   {% endif %}
 
   <a href="https://{% include episodes-url.liquid post=page %}" download>Ladda&nbsp;ner</a>&nbsp;<small>({{ page.length | divided_by: 1000000.0 | round: 1 | replace: '.', ',' }}&nbsp;MB)</small>
-  <p class="highlight">Prenumerera på podden <a href="https://itunes.apple.com/se/podcast/spelkosmos/id1074034373">via Itunes</a>, eller mata in <a href="/alla-episoder.rss">RSS:en</a> i din podcast-app.</p>
+  <p class="highlight">Prenumerera på podden via <a href="https://itunes.apple.com/se/podcast/spelkosmos/id1074034373">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1eWqU6UecnLF0B2CXUKmAl?si=spZZj9uHS-elUtqk5zNpLA">Spotify</a>, <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9zcGVsa29zbW9zLnNlL2FsbGEtZXBpc29kZXIucnNz&ved=0CAAQ4aUDahcKEwjw36jq8pvnAhUAAAAAHQAAAAAQAQ">Google Podcasts</a> eller mata in <a href="/alla-episoder.rss">RSS:en</a> i din podcast-app.</p>
   {{ content }}
   <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=page.date %}</time>
 </article>

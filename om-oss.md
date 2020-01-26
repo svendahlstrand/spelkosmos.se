@@ -13,7 +13,7 @@ Välkommen till en podcast om att fly verkligheten för en stund. Om att uppleva
 
 Häng med och upptäck fantastiska berättelser, klura kring spelande och lär dig nya intressanta grejer. Och allra främst, ha en riktigt mysig stund tillsammans med oss!
 
-[Prenumerera via vår RSS][5]. Vi finns givetvis också [på Itunes][6].
+[Prenumerera via vår RSS][5]. Vi finns givetvis också i [Apple Podcasts][6], [Spotify][19] och [Google Podcasts][20].
 
 Tack till [Niklas Dahlstrand][4] för den peppiga Spelkosmos-vinjetten och illustratören [Kostic Milos][3] för den eminenta pixelgrafiken.
 
@@ -56,3 +56,5 @@ Sanna har även snackat spel i  P3 Spel. Du hittar hennes krönikor i följande 
 [16]: http://sverigesradio.se/sida/avsnitt/967486?programid=4090
 [17]: http://sverigesradio.se/sida/avsnitt/977927?programid=4090
 [18]: http://sverigesradio.se/sida/avsnitt/987381?programid=4090
+[19]: https://open.spotify.com/show/1eWqU6UecnLF0B2CXUKmAl?si=spZZj9uHS-elUtqk5zNpLA
+[20]: https://podcasts.google.com/?feed=aHR0cHM6Ly9zcGVsa29zbW9zLnNlL2FsbGEtZXBpc29kZXIucnNz&ved=0CAAQ4aUDahcKEwjw36jq8pvnAhUAAAAAHQAAAAAQAQ
