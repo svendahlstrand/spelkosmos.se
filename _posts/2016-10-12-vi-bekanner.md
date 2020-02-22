@@ -26,5 +26,5 @@ Vill du lätta ditt hjärta? Bikta dig till oss! Vi finns på [Facebook][1], [In
 [5]: https://sv.wikipedia.org/wiki/Jolt_Cola
 [6]: http://www.pokemongo.com
 [7]: https://www.geocaching.com/play
-[8]: https://minecraft.net
+[8]: https://www.minecraft.net/en-us/
 [9]: https://en.wikipedia.org/wiki/Glossary_of_video_game_terms
