@@ -41,7 +41,7 @@ Varje dag släpps nya spännande spel. Men sen finns ju också alla äldre spel 
 [7]: https://en.wikipedia.org/wiki/Day_of_the_Tentacle
 [8]: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(1994_video_game)
 [9]: https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series)
-[10]: http://www.nintendo.com/games/game-guide#/filter/-|-|-|-|-|descend|releaseDate|-|1|-|-|-|-
+[10]: https://www.nintendo.com/games/virtual-console-games/
 [11]: http://www.blocket.se/jonkoping/datorer_tv-spel/tV-spel?cg=5020&w=3&st=s&ca=17&is=1&l=0&md=th&c=5025
 [12]: http://www.tradera.com/tv-spel-datorspel-30
 [13]: http://www.ebay.com/sch/Video-Games-/139973/i.html
