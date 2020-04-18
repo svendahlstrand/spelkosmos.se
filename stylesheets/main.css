@@ -138,6 +138,10 @@ td {
   vertical-align: top;
 }
 
+td:first-child {
+  width: 0.5em;
+}
+
 td:last-child {
   text-align: right;
   width: 33%;

@@ -11,14 +11,32 @@ Du kan prenumerera på podden via [Apple Podcasts][2], [Spotify][8], [Google Pod
 ## Alla episoder
 
 <table id="all-episodes">
-  {% for post in site.posts %}
+  {% assign audio_posts = site.posts | where_exp:"post","post.video != true" | reverse %}
+  {% for post in audio_posts %}
     <tr>
     <td>{{ post.episode }}.</td>
       <td>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </td>
       <td>
-        {% include pretty-duration.liquid duration=post.duration %} <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include localized-date.liquid date=post.date %}</time>
+        {% include pretty-duration.liquid duration=post.duration %}
+      </td>
+    </tr>
+  {% endfor %}
+</table>
+
+## Bonusepisoder
+
+<table id="video-episodes">
+  {% assign video_posts = site.posts | where_exp:"post","post.video == true" | reverse %}
+  {% for post in video_posts %}
+    <tr>
+    <td>{{ post.episode }}.</td>
+      <td>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </td>
+      <td>
+        {% include pretty-duration.liquid duration=post.duration %}
       </td>
     </tr>
   {% endfor %}
