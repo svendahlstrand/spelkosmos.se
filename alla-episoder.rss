@@ -23,7 +23,8 @@ layout: null
       <itunes:category text="Video Games"/>
     </itunes:category>
 
-    {% for post in site.posts %}
+    {% assign audio_posts = site.posts | where_exp:"post","post.video != true" %}
+    {% for post in audio_posts %}
       <item>
         <title>{{ post.title }}</title>
 
@@ -36,11 +37,7 @@ layout: null
           ]]>
         </content:encoded>
 
-        {% if post.video %}
-          <enclosure type="video/mp4" url="http://{% include episodes-url.liquid post=post %}" length="{{ post.length }}" />
-        {% else %}
-          <enclosure type="audio/mpeg" url="http://{% include episodes-url.liquid post=post %}" length="{{ post.length }}"/>
-        {% endif %}
+        <enclosure type="audio/mpeg" url="http://{% include episodes-url.liquid post=post %}" length="{{ post.length }}"/>
 
         <guid isPermaLink="false">{{ post.url }}</guid>
 
