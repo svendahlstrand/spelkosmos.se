@@ -21,6 +21,6 @@ I det tjugofemte avsnittet tar vi på oss våra tänkarmössor och leker filosof
 [virginia]: http://virginia.game
 [dragon]: http://www.thatdragoncancer.com
 [war]: http://www.thiswarofmine.com
-[quantum]: https://www.xbox.com/sv-SE/games/quantum-break
+[quantum]: https://www.microsoft.com/sv-se/p/quantum-break/bpndkqn84n6l
 [device]: http://simogo.com/work/device-6/
 [valiant]: https://www.ubisoft.com/en-gb/game/valiant-hearts/
