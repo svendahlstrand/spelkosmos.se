@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/typhoeus/ethon.git
+  revision: 07f840ef0f0f22ccc81e244b2efb513e8f46eb67
+  specs:
+    ethon (0.12.0)
+      ffi (>= 1.15.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,8 +16,6 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    ethon (0.12.0)
-      ffi (>= 1.3.0)
     eventmachine (1.2.7)
     feedvalidator (0.2.2)
     ffi (1.15.0)
@@ -91,6 +96,7 @@ PLATFORMS
 
 DEPENDENCIES
   colored
+  ethon!
   feedvalidator
   html-proofer
   jekyll
