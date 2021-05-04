@@ -24,5 +24,5 @@ Tidsresor är rackarns nervkittlande för fantasin, och vi frågar oss varför d
 [1]: http://www.feedbooks.com/book/32/the-time-machine
 [2]: https://en.wikipedia.org/wiki/List_of_games_containing_time_travel
 [3]: http://braid-game.com/
-[4]: http://dott.doublefine.com/
+[4]: https://www.doublefine.com/games/day-of-the-tentacle-remastered
 [5]: http://www.zelda.com/majoras-mask/
