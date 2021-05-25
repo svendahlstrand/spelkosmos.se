@@ -26,7 +26,7 @@ Ps. Kolla in sajten [How long to Beat][1] där du kan sålla fram spel efter lä
 * Beacon Beach av scntfc
 
 [1]: https://howlongtobeat.com/
-[2]: http://www.brothersthegame.com/
+[2]: https://www.hazelight.se/games/brothers/
 [3]: https://telltale.com/series/puzzle-agent/
 [4]: http://www.firewatchgame.com/
 [5]: http://www.capcom-unity.com/ducktales
