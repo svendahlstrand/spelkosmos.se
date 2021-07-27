@@ -23,7 +23,7 @@ Det finns en hel del undersökningar som försöker svara på hur många vi är 
 * [Beyond: Two Souls][3] - Interaktivt Science fiction-drama med Ellen Page och Willem Dafoe.
 * [Uncharted 2: Among Thieves][4] - Mattinéäventyr i sann Indiana Jones-anda.
 
-[1]: http://revolution.co.uk/games/the-shadow-of-the-templars
+[1]: https://revolution.co.uk/games_catalog/broken-sword-1/
 [2]: http://www.fireproofgames.com/games/the-room
 [3]: http://www.quanticdream.com/en/#!/en/category/beyond-two-souls
 [4]: https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves
