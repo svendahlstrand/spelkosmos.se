@@ -17,7 +17,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    feedvalidator (0.2.2)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     html-proofer (3.19.3)
@@ -95,7 +94,6 @@ PLATFORMS
 DEPENDENCIES
   colored
   ethon!
-  feedvalidator
   html-proofer
   jekyll
   jekyll-sitemap

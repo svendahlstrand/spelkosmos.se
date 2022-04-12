@@ -12,7 +12,6 @@ group :test do
   gem 'ethon', github: 'typhoeus/ethon'
 
   gem 'colored'
-  gem 'feedvalidator'
   gem 'html-proofer'
   gem 'rake'
   gem 'ruby-vnu'
