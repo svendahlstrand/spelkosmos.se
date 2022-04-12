@@ -31,6 +31,6 @@ Ps. [Rapporten från Dataspelsbranschen finner du här][rapport].
 [little]: http://little-nightmares.com
 [yono]: http://neckboltgames.com/work/baby-elephant-walk/
 [pan]: http://www.spelkraft.com/pan-pan/
-[fe]: http://www.zoinkgames.com/portfolio-item/fe/
+[fe]: https://thunderfulgames.com/games/fe/
 [simogo]: http://simogo.com
 [rapport]: https://dataspelsbranschen.se/s/spelutvecklarindex-2017.pdf
