@@ -14,8 +14,8 @@ Ibland märker du det inte ens, andra gånger sitter du otåligt och väntar på
 * [Luigi's Mansion: Dark Moon][6] - Spelet med för få sparpunkter (för Sanna).
 
 [1]: https://en.wikipedia.org/wiki/Saved_game
-[2]: http://www.mobygames.com/game/nes/tom-jerry
-[3]: http://www.mobygames.com/game/gameboy/catrap
-[4]: http://www.zelda.com/skywardsword/
-[5]: http://www.residentevil.com
+[2]: https://www.mobygames.com/game/nes/tom-jerry
+[3]: https://www.mobygames.com/game/gameboy/catrap
+[4]: https://www.zelda.com/skywardsword/
+[5]: https://www.residentevil.com
 [6]: https://www.nintendo.se/spel/luigis-mansion-2

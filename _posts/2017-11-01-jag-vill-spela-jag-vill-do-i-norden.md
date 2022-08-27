@@ -24,13 +24,13 @@ Ps. [Rapporten från Dataspelsbranschen finner du här][rapport].
 * [Simogo][simogo] - Ligger bakom många finfina spel.
 
 
-[requiem]: http://helenakarlander.com/works/requiem
+[requiem]: https://helenakarlander.com/works/requiem
 [ignition]: https://www.gog.com/game/ignition
 [stickit]: https://www.stickitgame.com
-[down]: http://thejourneydown.com
-[little]: http://little-nightmares.com
-[yono]: http://neckboltgames.com/work/baby-elephant-walk/
-[pan]: http://www.spelkraft.com/pan-pan/
+[down]: https://thejourneydown.com
+[little]: https://little-nightmares.com
+[yono]: https://neckboltgames.com/work/baby-elephant-walk/
+[pan]: https://www.spelkraft.com/pan-pan/
 [fe]: https://thunderfulgames.com/games/fe/
-[simogo]: http://simogo.com
+[simogo]: https://simogo.com
 [rapport]: https://dataspelsbranschen.se/s/spelutvecklarindex-2017.pdf

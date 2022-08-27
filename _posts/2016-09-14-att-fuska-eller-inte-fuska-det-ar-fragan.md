@@ -19,12 +19,12 @@ Ps. Nämnda Mia Consalvo ger fyra anledningar till att vi fuskar i spel i artike
 * [Inside][8] - Dystopiskt klur-spel där Sanna tog hjälp av en kompis.
 * [Goetia][9] - Spök-äventyr där Sanna öppnade fusk-lådan på vid gavel.
 
-[1]: http://www.forbes.com/2006/12/10/video-games-cheating-tech-cz_mc_games06_1212consalvo.html
+[1]: https://www.forbes.com/2006/12/10/video-games-cheating-tech-cz_mc_games06_1212consalvo.html
 [2]: https://mitpress.mit.edu/books/cheating
-[3]: http://www.rockstargames.com/V/
+[3]: https://www.rockstargames.com/V/
 [4]: https://www.thesims.com/
-[5]: http://mario.nintendo.com/
+[5]: https://mario.nintendo.com/
 [6]: https://www.epicgames.com/unrealtournament/
-[7]: http://laytonvsphoenixwright.nintendo.com/
-[8]: http://www.playdead.com/games/inside/
+[7]: https://laytonvsphoenixwright.nintendo.com/
+[8]: https://www.playdead.com/games/inside/
 [9]: https://store.steampowered.com/app/421740/Goetia/

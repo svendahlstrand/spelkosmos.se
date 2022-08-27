@@ -24,7 +24,7 @@ Samarbeta med att lösa pussel i ett episkt äventyr, puckla på varandra (tills
 
 [1]: https://www.telltalegames.com/walkingdead
 [2]: https://www.quantumbreak.com
-[3]: http://www.supermassivegames.com/games/until-dawn
-[4]: http://www.broforcegame.com
-[5]: http://www.keeptalkinggame.com
-[6]: http://www.quanticdream.com/en/#!/en/category/heavy-rain
+[3]: https://www.supermassivegames.com/games/until-dawn
+[4]: https://www.broforcegame.com
+[5]: https://www.keeptalkinggame.com
+[6]: https://www.quanticdream.com/en/#!/en/category/heavy-rain

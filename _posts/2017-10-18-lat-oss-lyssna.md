@@ -14,9 +14,9 @@ Färggranna (eller svartvita) pixlar och polygoner i all ära, men vad händer n
 * [Audiogames][audiogames] - en stor databas med ljudspel
 * [Blindfold Games][blindfold] - Marty Schultz gör egna ljudspel
 
-[somethin]: http://www.somethinelse.com/projects/gaming-for-gamers-audio-games/
+[somethin]: https://www.somethinelse.com/projects/gaming-for-gamers-audio-games/
 [monkey]: https://www.kickstarter.com/projects/1950090942/three-monkeys-part-1-into-the-abyss
 [frekvens]: https://www.his.se/nyheter/2019/maj/varmt-mottagande-av-inkluderande-spel/
-[srf]: http://www.srf.nu/leva-med-synnedsattning/att-ha-en-synnedsattning/ung/kul/spel/
+[srf]: https://www.srf.nu/leva-med-synnedsattning/att-ha-en-synnedsattning/ung/kul/spel/
 [audiogames]: https://www.audiogames.net/
 [blindfold]: https://blindfoldgames.org/

@@ -24,7 +24,7 @@ Vill du lätta ditt hjärta? Bikta dig till oss! Vi finns på [Facebook][1], [In
 [3]: https://www.dreamhack.se
 [4]: https://www.youtube.com/watch?v=cEu4Xfisi1M
 [5]: https://sv.wikipedia.org/wiki/Jolt_Cola
-[6]: http://www.pokemongo.com
+[6]: https://www.pokemongo.com
 [7]: https://www.geocaching.com/play
 [8]: https://www.minecraft.net/en-us/
 [9]: https://en.wikipedia.org/wiki/Glossary_of_video_game_terms

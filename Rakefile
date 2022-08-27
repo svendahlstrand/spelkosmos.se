@@ -33,7 +33,7 @@ def validate_html(should_run_fast)
                               empty_alt_ignore: true,
                               check_html: true,
                               only_4xx: true,
-                              http_status_ignore: [403],
+                              ignore_status_codes: [403],
                               checks_to_ignore: checks_to_ignore
                              ).run
 end

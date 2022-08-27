@@ -27,6 +27,6 @@ Ett stort tack till Svens kusin, Niklas Dahlstrand, som komponerade ihop en extr
 
 [1]: https://www.youtube.com/user/Chetreo
 [2]: https://www.playstation.com/en-us/games/ico-ps2/
-[3]: http://www.kathyraingame.com/
-[4]: http://www.sierra.com/kingsquest
+[3]: https://www.kathyraingame.com/
+[4]: https://www.sierra.com/kingsquest
 [5]: https://www.tombraider.com/en-us

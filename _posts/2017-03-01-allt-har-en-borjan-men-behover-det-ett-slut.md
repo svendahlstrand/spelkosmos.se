@@ -21,10 +21,10 @@ I detta avsnitt av Spelkosmos vänder och vrider vi på "The End".
 * [Journey][8] - Kanske ett perfekt slut?
 
 [1]: https://translate.google.com/translate?u=http%3A%2F%2Fwww.nintendo.co.jp%2Fn02%2Fdmg%2Famoj%2Findex.html&sl=ja&tl=en&hl=en&ie=UTF-8
-[2]: http://www.alanwake.com
+[2]: https://www.alanwake.com
 [3]: https://www.playstation.com/en-us/games/the-last-guardian-ps4/
-[4]: http://braid-game.com
-[5]: http://www.playdead.com/games/limbo/
+[4]: https://braid-game.com
+[5]: https://www.playdead.com/games/limbo/
 [6]: https://www.kickstarter.com/projects/1929139578/memoranda
 [7]: https://www.thelastofus.playstation.com
-[8]: http://thatgamecompany.com/games/journey/
+[8]: https://thatgamecompany.com/games/journey/

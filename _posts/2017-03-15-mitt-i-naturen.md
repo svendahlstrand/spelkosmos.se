@@ -19,12 +19,12 @@ Grönt är skönt och mossa är grejen. Vilka är spelen med snygg, knasig och s
 * [Firewatch][8] - Skogsvaktar-romantik.
 * [Unravel][9] - Svenska skogar, myrar och sjöar som får en att bli tårögd.
 
-[1]: http://www.zelda.com/breath-of-the-wild/
+[1]: https://www.zelda.com/breath-of-the-wild/
 [2]: https://www.playstation.com/sv-se/games/horizon-zero-dawn-ps4/
-[3]: http://samorost3.net/
-[4]: http://botanicula.net/
-[5]: http://www.nintendo.com/games/detail/poochy-and-yoshis-woolly-world-3ds
-[6]: http://www.oriblindforest.com/
-[7]: http://www.abzugame.com/
-[8]: http://www.firewatchgame.com/
-[9]: http://www.unravelgame.com/
+[3]: https://samorost3.net/
+[4]: https://botanicula.net/
+[5]: https://www.nintendo.com/games/detail/poochy-and-yoshis-woolly-world-3ds
+[6]: https://www.oriblindforest.com/
+[7]: https://www.abzugame.com/
+[8]: https://www.firewatchgame.com/
+[9]: https://www.unravelgame.com/

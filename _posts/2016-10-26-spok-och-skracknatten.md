@@ -25,10 +25,10 @@ När du spelat klart och vill ha mer: ladda din podcastmaskin med [The NoSleep P
 * Don't Get Cold Feet av Jason Graves
 * Goetia Soundtrack av Sombering Sail
 
-[1]: http://www.supermassivegames.com/games/until-dawn
-[2]: http://www.alanwake.com
+[1]: https://www.supermassivegames.com/games/until-dawn
+[2]: https://www.alanwake.com
 [3]: https://store.steampowered.com/app/421740/Goetia/
 [4]: https://luigismansion.nintendo.com
 [5]: https://www.thenosleeppodcast.com
-[6]: http://sverigesradio.se/sida/avsnitt?programid=4845
+[6]: https://sverigesradio.se/sida/avsnitt?programid=4845
 [7]: https://www.youtube.com/user/Chetreo

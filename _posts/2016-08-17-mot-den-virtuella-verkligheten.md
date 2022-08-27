@@ -19,10 +19,10 @@ Idag, drygt 20 책r senare, finns det nya sp채nnande leksaker som l책ter oss bes�
 * [Keep Talking and Nobody Explodes][5] - Desarmera bomber med v채nner.
 * [Obduction][6] - Ge dig ut p책 채ventyr i ett nytt spel fr책n skaparna av Myst.
 
-[1]: http://store.steampowered.com/app/450390/
-[2]: http://store.steampowered.com/app/446750/
-[3]: http://store.steampowered.com/app/451520/
-[4]: http://www.homeimprovisation.com/
-[5]: http://www.keeptalkinggame.com/
-[6]: http://obduction.com/
-[7]: http://www.thegallerygame.com/
+[1]: https://store.steampowered.com/app/450390/
+[2]: https://store.steampowered.com/app/446750/
+[3]: https://store.steampowered.com/app/451520/
+[4]: https://www.homeimprovisation.com/
+[5]: https://www.keeptalkinggame.com/
+[6]: https://obduction.com/
+[7]: https://www.thegallerygame.com/

@@ -12,6 +12,6 @@ I det här avsnittet grottar vi ner oss i spelstressen och spelkrampen. Varför 
 ## Spel vi nämner som kvickast
 
 * The Last of Us Part II - Kommande zombie-uppföljare.
-* [Uncharted 4](http://www.unchartedthegame.com/en-us/) - Indiana Jones:igt äventyrsspel.
-* [BoxBoxBoy!](http://boxboxboy.nintendo.com/) - Klurigt pussel med svartvita boxar.
-* [The Silent Age](http://thesilentage.com/) - Tidsresande thriller.
+* [Uncharted 4](https://www.unchartedthegame.com/en-us/) - Indiana Jones:igt äventyrsspel.
+* [BoxBoxBoy!](https://boxboxboy.nintendo.com/) - Klurigt pussel med svartvita boxar.
+* [The Silent Age](https://thesilentage.com/) - Tidsresande thriller.

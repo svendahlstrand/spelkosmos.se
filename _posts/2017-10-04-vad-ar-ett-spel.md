@@ -17,10 +17,10 @@ I det tjugofemte avsnittet tar vi på oss våra tänkarmössor och leker filosof
 * [Quantum Break][quantum]
 * [DEVICE 6][device]
 
-[edith]: http://edithfinch.com
-[virginia]: http://virginia.game
-[dragon]: http://www.thatdragoncancer.com
-[war]: http://www.thiswarofmine.com
+[edith]: https://edithfinch.com
+[virginia]: https://virginia.game
+[dragon]: https://www.thatdragoncancer.com
+[war]: https://www.thiswarofmine.com
 [quantum]: https://www.microsoft.com/sv-se/p/quantum-break/bpndkqn84n6l
-[device]: http://simogo.com/work/device-6/
+[device]: https://simogo.com/work/device-6/
 [valiant]: https://www.ubisoft.com/en-gb/game/valiant-hearts/

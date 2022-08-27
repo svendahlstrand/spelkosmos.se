@@ -28,6 +28,6 @@ Ps. Kolla in sajten [How long to Beat][1] där du kan sålla fram spel efter lä
 [1]: https://howlongtobeat.com/
 [2]: https://www.hazelight.se/games/brothers/
 [3]: https://telltale.com/series/puzzle-agent/
-[4]: http://www.firewatchgame.com/
-[5]: http://www.capcom-unity.com/ducktales
-[6]: http://nightschoolstudio.com/oxenfree/
+[4]: https://www.firewatchgame.com/
+[5]: https://www.capcom-unity.com/ducktales
+[6]: https://nightschoolstudio.com/oxenfree/

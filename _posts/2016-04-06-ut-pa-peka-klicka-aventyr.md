@@ -39,8 +39,8 @@ Spelen med berättelser som engagerar, karaktärer som du sent ska glömma och p
 [7]: https://en.wikipedia.org/wiki/Broken_Age
 [8]: https://en.wikipedia.org/wiki/Grim_Fandango
 [9]: https://en.wikipedia.org/wiki/Syberia
-[10]: http://www.aviaryattorney.com/
+[10]: https://www.aviaryattorney.com/
 [11]: https://en.wikipedia.org/wiki/Thimbleweed_Park
 [12]: https://en.wikipedia.org/wiki/Samorost_3
-[13]: http://www.adventuregamers.com/
-[14]: http://www.uhs-hints.com/
+[13]: https://www.adventuregamers.com/
+[14]: https://www.uhs-hints.com/

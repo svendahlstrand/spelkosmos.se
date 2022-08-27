@@ -42,10 +42,10 @@ Varje dag släpps nya spännande spel. Men sen finns ju också alla äldre spel 
 [8]: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(1994_video_game)
 [9]: https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series)
 [10]: https://www.nintendo.com/games/virtual-console-games/
-[11]: http://www.blocket.se/jonkoping/datorer_tv-spel/tV-spel?cg=5020&w=3&st=s&ca=17&is=1&l=0&md=th&c=5025
-[12]: http://www.tradera.com/tv-spel-datorspel-30
-[13]: http://www.ebay.com/sch/Video-Games-/139973/i.html
+[11]: https://www.blocket.se/jonkoping/datorer_tv-spel/tV-spel?cg=5020&w=3&st=s&ca=17&is=1&l=0&md=th&c=5025
+[12]: https://www.tradera.com/tv-spel-datorspel-30
+[13]: https://www.ebay.com/sch/Video-Games-/139973/i.html
 [14]: https://www.playonmac.com/en/
 [15]: https://www.playonlinux.com/sv/
-[16]: http://scummvm.org/
+[16]: https://scummvm.org/
 [17]: https://wiki.scummvm.org/index.php/Beneath_a_Steel_Sky
