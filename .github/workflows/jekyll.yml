@@ -10,11 +10,10 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@master
-    - name: Set up Ruby 2.7
-      uses: actions/setup-ruby@master
+    - name: Set up Ruby 3.1 and install bundles
+      uses: ruby/setup-ruby@master
       with:
-        ruby-version: 2.7
-    - name: Install gems
-      run: bundle install --jobs 4 --retry 3
+        ruby-version: 3.1
+        bundler-cache: true
     - name: Run tests
       run: bundle exec rake
