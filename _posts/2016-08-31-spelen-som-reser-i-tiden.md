@@ -22,7 +22,7 @@ Tidsresor är rackarns nervkittlande för fantasin, och vi frågar oss varför d
 * Clock Town Day 1 av Koji Kondo
 
 [1]: https://www.feedbooks.com/book/32/the-time-machine
-[2]: https://en.wikipedia.org/wiki/List_of_games_containing_time_travel
+[2]: https://en.wikipedia.org/wiki/Category:Video_games_about_time_travel
 [3]: https://braid-game.com/
 [4]: https://www.doublefine.com/games/day-of-the-tentacle-remastered
 [5]: https://www.zelda.com/majoras-mask/
