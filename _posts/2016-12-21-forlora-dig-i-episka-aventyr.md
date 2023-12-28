@@ -29,4 +29,4 @@ Ett stort tack till Svens kusin, Niklas Dahlstrand, som komponerade ihop en extr
 [2]: https://www.playstation.com/en-us/games/ico-ps2/
 [3]: https://www.kathyraingame.com/
 [4]: https://www.sierra.com/kingsquest
-[5]: https://www.tombraider.com/en-us
+[5]: https://sv.wikipedia.org/wiki/Rise_of_the_Tomb_Raider
