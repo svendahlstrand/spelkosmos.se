@@ -24,5 +24,5 @@ Idag, drygt 20 år senare, finns det nya spännande leksaker som låter oss bes�
 [3]: https://store.steampowered.com/app/451520/
 [4]: https://www.homeimprovisation.com/
 [5]: https://www.keeptalkinggame.com/
-[6]: https://obduction.com/
+[6]: https://cyan.com/games/obduction/
 [7]: https://www.thegallerygame.com/
