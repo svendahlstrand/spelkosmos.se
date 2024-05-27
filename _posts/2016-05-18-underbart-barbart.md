@@ -24,7 +24,7 @@ I avsnittet nämner Sven artikeln [Nintendo NX: everything we know so far][1] so
 * Dark Moon Main Theme av Chad York, Darren Radtke, Mike Peacock
 
 [1]: https://www.theverge.com/2016/4/27/11516888/nintendo-nx-new-console-news-date-games
-[2]: https://simogo.com/work/year-walk-ios
+[2]: https://simogo.com/work/year-walk/
 [3]: https://zelda.com/#threeds
 [4]: https://machinarium.net
 [5]: https://luigismansion.nintendo.com
