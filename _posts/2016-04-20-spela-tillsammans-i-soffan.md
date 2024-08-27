@@ -22,7 +22,7 @@ Samarbeta med att lösa pussel i ett episkt äventyr, puckla på varandra (tills
 * Broforce-spelande
 * The Last Breath av Normand Corbeil
 
-[1]: https://www.telltalegames.com/walkingdead
+[1]: https://en.wikipedia.org/wiki/The_Walking_Dead_%28video_game_series%29
 [2]: https://www.quantumbreak.com
 [3]: https://www.supermassivegames.com/games/until-dawn
 [4]: https://www.broforcegame.com
